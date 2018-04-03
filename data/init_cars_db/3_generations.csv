@@ -1,0 +1,2884 @@
+"generation_id","generation_name","model_id","year_begin","year_end"
+"1","Nissan Qashqai II","2123","2014",NULL
+"2","Nissan Qashqai I Рестайлинг","2123","2010","2013"
+"3","Nissan Qashqai I","2123","2006","2010"
+"4","Acura EL II","7","2001","2005"
+"5","Acura EL I","7","1997","2000"
+"6","Acura Integra III","9","1993","2001"
+"7","Acura Integra II","9","1989","1993"
+"8","Acura Integra I","9","1985","1990"
+"9","Acura Legend II","10","1990","1996"
+"10","Acura Legend I","10","1986","1990"
+"11","Acura MDX III","11","2013",NULL
+"12","Acura MDX II","11","2007","2013"
+"13","Acura MDX I","11","2001","2006"
+"14","Acura RDX II","13","2012",NULL
+"15","Acura RDX I","13","2006","2012"
+"16","Acura RL II","14","2004","2012"
+"17","Acura RL I","14","1995","2004"
+"18","Acura TL IV","18","2008",NULL
+"19","Acura TL III","18","2003","2008"
+"20","Acura TL II","18","1999","2003"
+"21","Acura TL I","18","1995","1998"
+"22","Acura TSX II","19","2008",NULL
+"23","Acura TSX I","19","2003","2008"
+"27","Alfa Romeo 166 I Рестайлинг","28","2003","2007"
+"28","Alfa Romeo 166 I","28","1998","2003"
+"29","Alfa Romeo 33 II","29","1990","1994"
+"30","Alfa Romeo 33 I","29","1983","1993"
+"34","Alfa Romeo Giulietta II","40","2010",NULL
+"35","Alfa Romeo Giulietta I","40","1977","1985"
+"36","Alfa Romeo Spider III","47","2006","2010"
+"37","Alfa Romeo Spider II","47","1995","2005"
+"38","Alfa Romeo Spider I","47","1966","1993"
+"42","Aston Martin DB9 I Рестайлинг","63","2007",NULL
+"43","Aston Martin DB9 I","63","2003","2007"
+"46","Aston Martin Rapide I S","67","2013",NULL
+"47","Aston Martin Rapide I","67","2010","2013"
+"48","Aston Martin V12 Vanquish II","69","2012",NULL
+"49","Aston Martin V12 Vanquish I","69","2001","2007"
+"52","Aston Martin Virage II","74","2011","2012"
+"53","Aston Martin Virage I","74","1988","2000"
+"54","Audi 80 V (B4)","78","1991","1996"
+"55","Audi 80 IV (B3)","78","1986","1991"
+"56","Audi 80 III (B2)","78","1978","1986"
+"57","Audi 80 II (B1)","78","1972","1978"
+"59","Audi A3 III (8V)","82","2012",NULL
+"60","Audi A3 II (8P)","82","2003","2013"
+"61","Audi A3 I (8L)","82","1996","2003"
+"62","Audi A4 IV (B8) Рестайлинг","84","2011",NULL
+"63","Audi A4 IV (B8)","84","2007","2011"
+"64","Audi A4 III (B7)","84","2004","2009"
+"65","Audi A4 II (B6)","84","2000","2004"
+"66","Audi A4 I (B5)","84","1995","2001"
+"67","Audi A5 I Рестайлинг","85","2011",NULL
+"68","Audi A5 I","85","2007","2011"
+"69","Audi A6 allroad III (C7)","86","2012","2014"
+"70","Audi A6 allroad II (C6)","86","2006","2012"
+"71","Audi A6 allroad I (C5)","86","2000","2006"
+"72","Audi A8 III (D4) Рестайлинг","89","2013",NULL
+"73","Audi A8 III (D4)","89","2010","2013"
+"74","Audi A8 II (D3)","89","2002","2010"
+"75","Audi A8 I (D2)","89","1994","2002"
+"76","Audi R8 I Рестайлинг","97","2012",NULL
+"77","Audi R8 I","97","2007","2012"
+"78","Audi RS4 III (B8)","101","2012",NULL
+"79","Audi RS4 II (B7)","101","2005","2012"
+"80","Audi RS4 I (B5)","101","1999","2001"
+"81","Audi RS6 III (C7)","103","2012","2014"
+"82","Audi RS6 II (C6)","103","2007","2012"
+"83","Audi RS6 I (C5)","103","2002","2006"
+"86","Audi S3 III (8V)","107","2012",NULL
+"87","Audi S3 II (8P)","107","2008","2012"
+"88","Audi S3 I (8L)","107","1999","2003"
+"89","Audi S5 I Рестайлинг","109","2011",NULL
+"90","Audi S5 I","109","2007","2011"
+"91","Audi S6 IV (C7)","110","2012","2014"
+"92","Audi S6 III (C6)","110","2006","2012"
+"93","Audi S6 II (C5)","110","1999","2006"
+"94","Audi S6 I (C4)","110","1994","1997"
+"95","Audi S8 III (D4) Рестайлинг","112","2013",NULL
+"96","Audi S8 III (D4)","112","2012","2013"
+"97","Audi S8 II (D3)","112","2005","2011"
+"98","Audi S8 I (D2)","112","1996","2002"
+"99","Audi TT II (8J)","114","2006","2014"
+"100","Audi TT I (8N)","114","1998","2006"
+"101","Austin Maxi II","119","1980","1982"
+"102","Austin Maxi I","119","1969","1980"
+"104","Austin Princess I","123","1975","1978"
+"105","Austin Princess II","123","1972","1982"
+"106","Bentley Arnage II","128","2002","2009"
+"107","Bentley Arnage I","128","1998","2002"
+"108","Bentley Brooklands II","130","2008","2011"
+"109","Bentley Brooklands I","130","1994","1998"
+"111","Bentley Continental GT II","133","2011",NULL
+"112","Bentley Continental GT I","133","2003","2013"
+"113","Bertone Freeclimber II","138","1992","1995"
+"114","Bertone Freeclimber I","138","1989","1992"
+"115","BMW 1er II (F20-F21)","141","2011",NULL
+"116","BMW 1er I (E81-E88)","141","2004","2013"
+"117","BMW 3er VI (F3x)","144","2011",NULL
+"118","BMW 3er V (E9x)","144","2005","2013"
+"119","BMW 3er IV (E46)","144","1998","2006"
+"120","BMW 3er III (E36)","144","1990","2000"
+"121","BMW 3er II (E30)","144","1982","1994"
+"122","BMW 3er I (E21)","144","1975","1984"
+"124","BMW 5er VI (F1x) Рестайлинг","146","2013",NULL
+"125","BMW 5er VI (F1x)","146","2009","2013"
+"126","BMW 5er V (E6x)","146","2002","2010"
+"127","BMW 5er IV (E39)","146","1995","2003"
+"128","BMW 5er III (E34)","146","1988","1997"
+"129","BMW 5er II (E28)","146","1981","1988"
+"130","BMW 5er I (E12)","146","1972","1981"
+"131","BMW 6er III (F06/F13/F12)","147","2011",NULL
+"132","BMW 6er II (E63/E64)","147","2003","2010"
+"133","BMW 6er I (E24)","147","1976","1990"
+"134","BMW 8er E31","149","1989","1999"
+"135","BMW X1 I (E84) Рестайлинг","152","2012",NULL
+"136","BMW X1 I (E84)","152","2009","2012"
+"137","BMW X3 II (F25) Рестайлинг","153","2014",NULL
+"138","BMW X3 II (F25)","153","2010","2014"
+"139","BMW X3 I (E83)","153","2003","2010"
+"140","BMW X5 III (F15)","155","2013",NULL
+"141","BMW X5 II (E70) Рестайлинг","155","2010","2013"
+"142","BMW X5 II (E70)","155","2006","2011"
+"143","BMW X5 I (E53)","155","1999","2006"
+"144","BMW X6 II (F16)","156","2014",NULL
+"145","BMW X6 I (E71) Рестайлинг","156","2012",NULL
+"146","BMW X6 I (E71)","156","2007","2012"
+"148","BMW Z4 II (E89)","159","2009",NULL
+"149","BMW Z4 I (E85/E86)","159","2003","2009"
+"150","BMW Alpina 3er VI (F30)","161","2013",NULL
+"151","BMW Alpina 3er V (E90)","161","2005","2013"
+"152","BMW Alpina 3er IV (E46)","161","1999","2006"
+"153","BMW Alpina 3er III (E36)","161","1992","1999"
+"154","BMW Alpina 3er II (E30)","161","1983","1992"
+"155","BMW Alpina 3er I (E21)","161","1978","1983"
+"156","BMW Alpina 5er VI (F10/11)","163","2011",NULL
+"157","BMW Alpina 5er V (E60/61)","163","2005","2010"
+"158","BMW Alpina 5er IV (E39)","163","1997","2004"
+"159","BMW Alpina 5er III (E34)","163","1988","1996"
+"160","BMW Alpina 5er II (E28)","163","1983","1987"
+"161","BMW Alpina 5er I (E12)","163","1978","1982"
+"162","BMW Alpina 6er III (F12/F13)","164","2011",NULL
+"163","BMW Alpina 6er II (E63/64)","164","2005","2010"
+"164","BMW Alpina 6er I (E24)","164","1978","1988"
+"165","BMW Alpina 7er V (F01)","165","2010",NULL
+"166","BMW Alpina 7er IV (E65/66)","165","2005","2008"
+"167","BMW Alpina 7er III (E38)","165","1995","2001"
+"168","BMW Alpina 7er II (E32)","165","1987","1994"
+"169","BMW Alpina 7er I (E23)","165","1979","1986"
+"170","BMW Alpina 8er E31","166","1990","1996"
+"171","BMW Alpina Roadster III (Z4)","167","2003","2005"
+"172","BMW Alpina Roadster II (Z8)","167","2002","2003"
+"173","BMW Alpina Roadster I (Z1)","167","1990","1991"
+"174","Brilliance M1 (BS6) I Рестайлинг","173","2009",NULL
+"175","Brilliance M1 (BS6) I","173","2005","2009"
+"176","Brilliance M2 (BS4) I Рестайлинг","174","2010",NULL
+"177","Brilliance M2 (BS4) I","174","2006","2010"
+"178","Bristol Blenheim Series 3","177","2000","2011"
+"179","Bristol Blenheim Series 2","177","1997","2000"
+"180","Bristol Blenheim Series 1","177","1993","1997"
+"182","Buick Century VI","185","1997","2005"
+"183","Buick Century V","185","1982","1996"
+"184","Buick Electra VI","186","1985","1990"
+"185","Buick Electra V","186","1977","1984"
+"186","Buick Excelle II","188","2009",NULL
+"187","Buick Excelle I","188","2004","2007"
+"188","Buick GL8 II","189","2011",NULL
+"189","Buick GL8 I","189","2000","2011"
+"190","Buick LaCrosse II","190","2010","2013"
+"191","Buick LaCrosse I (China)","190","2007","2009"
+"192","Buick LaCrosse I (North America)","190","2004","2009"
+"193","Buick LeSabre VIII","191","1999","2005"
+"194","Buick LeSabre VII","191","1992","1999"
+"195","Buick LeSabre VI","191","1986","1991"
+"196","Buick LeSabre V","191","1977","1988"
+"197","Buick Park Avenue III","193","2007",NULL
+"198","Buick Park Avenue II","193","1996","2005"
+"199","Buick Park Avenue I","193","1991","1996"
+"201","Buick Regal V","196","2009",NULL
+"202","Buick Regal IV","196","1997","2008"
+"203","Buick Regal III","196","1988","1997"
+"204","Buick Riviera VIII","198","1994","2000"
+"205","Buick Riviera VI","198","1979","1985"
+"206","Buick Riviera III","198","1971","1973"
+"212","Cadillac CTS III","220","2013",NULL
+"213","Cadillac CTS II","220","2007","2013"
+"214","Cadillac CTS I","220","2002","2007"
+"215","Cadillac De Ville VIII","221","1999","2005"
+"216","Cadillac De Ville VII","221","1994","1999"
+"217","Cadillac De Ville VI","221","1985","1993"
+"218","Cadillac De Ville V","221","1977","1984"
+"219","Cadillac Eldorado XI","223","1992","2002"
+"220","Cadillac Eldorado X","223","1986","1991"
+"221","Cadillac Eldorado IX","223","1979","1985"
+"222","Cadillac Escalade IV","224","2014",NULL
+"223","Cadillac Escalade III","224","2007","2014"
+"224","Cadillac Escalade II","224","2002","2006"
+"225","Cadillac Escalade I","224","1998","2002"
+"226","Cadillac Fleetwood II","225","1993","1996"
+"227","Cadillac Fleetwood I","225","1984","1996"
+"228","Cadillac Seville V","227","1998","2004"
+"229","Cadillac Seville IV","227","1992","1997"
+"230","Cadillac Seville III","227","1986","1991"
+"231","Cadillac Seville II","227","1980","1985"
+"232","Cadillac Seville I","227","1975","1979"
+"233","Cadillac Sixty Special X","228","1971","1976"
+"234","Cadillac SRX II","229","2010",NULL
+"235","Cadillac SRX I","229","2003","2010"
+"238","AC Cobra Mk VI","4","2013",NULL
+"239","AC Cobra Mk V","4","1999","2007"
+"240","AC Cobra Mk IV","4","1990","2001"
+"241","Aston Martin V8 Vantage III Рестайлинг","72","2008",NULL
+"242","Aston Martin V8 Vantage III","72","2005","2008"
+"243","Aston Martin V8 Vantage II","72","1992","1999"
+"244","Aston Martin V8 Vantage I","72","1969","1989"
+"245","Audi 200 II (C3)","76","1983","1991"
+"246","Audi 200 I (C2)","76","1979","1982"
+"247","Audi 90 II (B3)","79","1987","1991"
+"248","Audi 90 I (B2)","79","1984","1987"
+"249","Audi A4 allroad IV (B8) Рестайлинг","83","2009",NULL
+"250","Audi A4 allroad IV (B8)","83","2009","2011"
+"251","Audi A6 IV (C7)","87","2011","2014"
+"252","Audi A6 III (C6)","87","2004","2011"
+"253","Audi A6 II (C5) Рестайлинг","87","2001","2004"
+"254","Audi A6 II (C5)","87","1997","2001"
+"255","Audi A6 I (C4)","87","1994","1997"
+"256","Audi Coupe II (B3)","91","1988","1996"
+"257","Audi Coupe I (B2)","91","1980","1988"
+"258","Audi Q5 I Рестайлинг","94","2012",NULL
+"259","Audi Q5 I","94","2008","2012"
+"261","Audi S4 IV (B8) Рестайлинг","108","2012",NULL
+"262","Audi S4 IV (B8)","108","2008","2011"
+"263","Audi S4 III (B7)","108","2004","2008"
+"264","Audi S4 II (B6)","108","2002","2004"
+"265","Audi S4 I (B5)","108","1997","2001"
+"267","Bentley Azure II","129","2005","2009"
+"268","Bentley Azure I","129","1995","2005"
+"269","Bentley Mulsanne II","136","2010",NULL
+"270","Bentley Mulsanne I","136","1980","1993"
+"271","BMW 7er V (F01/F02/F04) Рестайлинг","148","2012",NULL
+"272","BMW 7er V (F01/F02/F04)","148","2008","2012"
+"273","BMW 7er IV (E6x)","148","2001","2008"
+"274","BMW 7er III (E38)","148","1994","2001"
+"275","BMW 7er II (E32)","148","1986","1994"
+"276","BMW 7er I (E23)","148","1977","1986"
+"277","Chery Tiggo (T11) I Рестайлинг (FL)","256","2012",NULL
+"278","Chery Tiggo (T11) I","256","2005",NULL
+"280","Chevrolet Avalanche II","261","2006","2013"
+"281","Chevrolet Avalanche I","261","2001","2006"
+"282","Chevrolet Aveo II","262","2012",NULL
+"283","Chevrolet Aveo I Рестайлинг","262","2006","2012"
+"284","Chevrolet Aveo I","262","2003","2008"
+"285","Chevrolet Blazer II","264","1994","1998"
+"286","Chevrolet Blazer I","264","1983","1994"
+"287","Chevrolet Blazer K5 III","265","1992","2001"
+"288","Chevrolet Blazer K5 II","265","1973","1991"
+"289","Chevrolet Camaro V Рестайлинг","267","2013",NULL
+"290","Chevrolet Camaro V","267","2008","2013"
+"291","Chevrolet Camaro IV","267","1992","2002"
+"292","Chevrolet Camaro III","267","1982","1992"
+"293","Chevrolet Caprice VI","268","2006",NULL
+"294","Chevrolet Caprice V","268","1999","2006"
+"295","Chevrolet Caprice IV","268","1990","1998"
+"296","Chevrolet Caprice III","268","1976","1990"
+"297","Chevrolet Captiva I Рестайлинг 2","269","2013",NULL
+"298","Chevrolet Captiva I Рестайлинг","269","2011","2013"
+"299","Chevrolet Captiva I","269","2006","2011"
+"300","Chevrolet Cavalier III","270","1995","2005"
+"301","Chevrolet Cavalier II","270","1988","1994"
+"302","Chevrolet Cavalier I","270","1982","1987"
+"303","Chevrolet Cobalt II","276","2011",NULL
+"304","Chevrolet Cobalt I","276","2004","2011"
+"307","Chevrolet Corvette C7 Stingray","280","2013",NULL
+"308","Chevrolet Corvette C6","280","2004","2013"
+"309","Chevrolet Corvette C5","280","1997","2004"
+"310","Chevrolet Corvette C4","280","1984","1998"
+"311","Chevrolet Cruze I Рестайлинг","282","2013",NULL
+"312","Chevrolet Cruze I","282","2009","2013"
+"313","Chevrolet Equinox II","284","2009",NULL
+"314","Chevrolet Equinox I","284","2004","2009"
+"315","Chevrolet Express II","286","2003",NULL
+"316","Chevrolet Express I","286","1996","2002"
+"317","Chevrolet Impala IX","288","2006","2013"
+"318","Chevrolet Impala VIII","288","1999","2006"
+"319","Chevrolet Impala VII","288","1994","1996"
+"322","Chevrolet Malibu VIII Рестайлинг","295","2013",NULL
+"323","Chevrolet Malibu VIII","295","2011","2014"
+"324","Chevrolet Malibu VII","295","2008","2012"
+"325","Chevrolet Malibu VI","295","2004","2008"
+"326","Chevrolet Malibu V","295","1996","2004"
+"327","Chevrolet Malibu IV","295","1978","1983"
+"329","Chevrolet Monte Carlo VI","297","1999","2007"
+"330","Chevrolet Monte Carlo V","297","1994","1999"
+"331","Chevrolet Niva I Рестайлинг","300","2009",NULL
+"332","Chevrolet Niva I","300","2002","2009"
+"334","Chevrolet Omega B","302","1998","2004"
+"335","Chevrolet Omega A","302","1992","1998"
+"338","Chevrolet Spark III","309","2009",NULL
+"339","Chevrolet Spark II","309","2005","2009"
+"340","Chevrolet Suburban XII","312","2014",NULL
+"341","Chevrolet Suburban XI","312","2007","2013"
+"342","Chevrolet Suburban X","312","2000","2006"
+"343","Chevrolet Suburban IX","312","1991","2001"
+"344","Chevrolet Suburban VIII","312","1973","1991"
+"345","Chevrolet Tahoe IV","313","2014",NULL
+"346","Chevrolet Tahoe III","313","2007","2014"
+"347","Chevrolet Tahoe II","313","1999","2007"
+"348","Chevrolet Tahoe I","313","1995","1999"
+"349","Chevrolet Tracker II (Trax)","315","2013",NULL
+"350","Chevrolet Tracker I","315","1998","2004"
+"351","Chevrolet TrailBlazer II","316","2012",NULL
+"352","Chevrolet TrailBlazer I","316","2001","2010"
+"354","Chrysler 300C II","319","2011",NULL
+"355","Chrysler 300C I","319","2004","2010"
+"356","Chrysler Concorde II","323","1997","2004"
+"357","Chrysler Concorde I","323","1992","1997"
+"359","Chrysler Fifth Avenue II","326","1990","1993"
+"360","Chrysler Fifth Avenue I","326","1982","1989"
+"361","Chrysler Intrepid II","328","1998","2004"
+"362","Chrysler Intrepid I","328","1993","1997"
+"364","Chrysler LHS II","330","1999","2001"
+"365","Chrysler LHS I","330","1994","1997"
+"366","Chrysler Neon II","332","1999","2005"
+"367","Chrysler Neon I","332","1994","1999"
+"368","Chrysler NEW Yorker XIII","333","1994","1996"
+"369","Chrysler NEW Yorker XII","333","1989","1993"
+"371","Chrysler Sebring III","338","2006","2010"
+"372","Chrysler Sebring II","338","2000","2007"
+"373","Chrysler Sebring I","338","1994","2000"
+"375","Chrysler Town & Country V","341","2008",NULL
+"376","Chrysler Town & Country IV","341","2001","2007"
+"377","Chrysler Town & Country III","341","1995","2001"
+"378","Chrysler Town & Country II","341","1990","1994"
+"380","Chrysler Voyager V Рестайлинг","344","2011",NULL
+"381","Chrysler Voyager V","344","2008",NULL
+"382","Chrysler Voyager IV","344","2001","2008"
+"383","Chrysler Voyager III","344","1995","2000"
+"384","Chrysler Voyager II","344","1991","1995"
+"385","Chrysler Voyager I","344","1988","1990"
+"388","Citroen Berlingo II","348","2008",NULL
+"389","Citroen Berlingo I","348","1996","2008"
+"392","Citroen C3 II Рестайлинг","354","2013",NULL
+"393","Citroen C3 II","354","2009","2013"
+"394","Citroen C3 I","354","2002","2009"
+"395","Citroen C3 Picasso I Рестайлинг","355","2012",NULL
+"396","Citroen C3 Picasso I","355","2009",NULL
+"397","Citroen C4 II","358","2010",NULL
+"398","Citroen C4 I","358","2004",NULL
+"399","Citroen C4 Picasso II","359","2013",NULL
+"400","Citroen C4 Picasso I","359","2006","2013"
+"401","Citroen C5 II","360","2008",NULL
+"402","Citroen C5 I","360","2001","2008"
+"403","Citroen C8 II","362","2008",NULL
+"404","Citroen C8 I","362","2002","2008"
+"405","Citroen CX II","363","1983","1995"
+"406","Citroen CX I","363","1974","1986"
+"410","Citroen Xantia II","373","1998","2003"
+"411","Citroen Xantia I","373","1993","1998"
+"412","Citroen XM II","374","1994","2000"
+"413","Citroen XM I","374","1989","1994"
+"418","Dacia Duster I Рестайлинг","384","2013",NULL
+"419","Dacia Duster I","384","2010","2013"
+"420","Dacia Logan II","386","2012",NULL
+"421","Dacia Logan I","386","2004","2012"
+"422","Dacia Sandero II","388","2013",NULL
+"423","Dacia Sandero I","388","2008","2012"
+"424","Daewoo Damas II","395","2005",NULL
+"425","Daewoo Damas I","395","1991","2004"
+"426","Daewoo Gentra II","399","2013",NULL
+"427","Daewoo Gentra I","399","2005","2011"
+"432","Daewoo Matiz I Рестайлинг","407","2000",NULL
+"433","Daewoo Matiz I","407","1998","2000"
+"434","Daewoo Nexia I Рестайлинг","409","2008",NULL
+"435","Daewoo Nexia I","409","1995","2008"
+"436","Daewoo Nubira III","410","2002",NULL
+"437","Daewoo Nubira II","410","2000","2002"
+"438","Daewoo Nubira I","410","1997","2000"
+"442","Daihatsu Altis III (SXV40)","420","2006","2010"
+"443","Daihatsu Altis II (SXV30)","420","2001","2006"
+"444","Daihatsu Altis I (SXV20)","420","2000","2001"
+"445","Daihatsu Applause II","421","1997","2000"
+"446","Daihatsu Applause I","421","1989","1997"
+"447","Daihatsu Charade IV","426","1993","2000"
+"448","Daihatsu Charade III","426","1987","1992"
+"449","Daihatsu Charade II","426","1983","1987"
+"450","Daihatsu Charade I","426","1977","1983"
+"451","Daihatsu Copen II","429","2014",NULL
+"452","Daihatsu Copen I","429","2002","2012"
+"453","Daihatsu Cuore VII (L275)","430","2006",NULL
+"454","Daihatsu Cuore VI (L250)","430","2003","2006"
+"455","Daihatsu Cuore V (L700)","430","1998","2003"
+"456","Daihatsu Cuore IV (L500)","430","1995","1998"
+"457","Daihatsu Cuore III (L200)","430","1990","1994"
+"458","Daihatsu Cuore II (L70)","430","1985","1990"
+"459","Daihatsu Cuore I (L55)","430","1980","1985"
+"462","Daihatsu Mira Gino II","438","2004","2009"
+"463","Daihatsu Mira Gino I","438","1999","2004"
+"464","Daihatsu Mira VII","439","2006",NULL
+"465","Daihatsu Mira VI","439","2003","2006"
+"466","Daihatsu Mira V","439","1998","2003"
+"469","Daihatsu Sirion M2","445","2005",NULL
+"470","Daihatsu Sirion M1","445","1998","2005"
+"471","Daihatsu Terios II","450","2006",NULL
+"472","Daihatsu Terios I","450","1997","2006"
+"474","Datsun Cherry II","466","1974","1978"
+"475","Datsun Cherry I","466","1970","1974"
+"480","Dodge Avenger II","488","2007",NULL
+"481","Dodge Avenger I","488","1994","2000"
+"482","Dodge Caravan IV","490","2001","2007"
+"483","Dodge Caravan III","490","1995","2001"
+"484","Dodge Caravan II","490","1990","1995"
+"485","Dodge Caravan I","490","1984","1990"
+"486","Dodge Challenger III","491","2008",NULL
+"487","Dodge Challenger II","491","1978","1983"
+"488","Dodge Challenger I","491","1962","1974"
+"489","Dodge Charger II","492","2010",NULL
+"490","Dodge Charger I","492","2005","2010"
+"491","Dodge Dakota III","493","2005","2011"
+"492","Dodge Dakota II","493","1999","2005"
+"493","Dodge Dakota I","493","1987","1996"
+"494","Dodge Durango III","496","2010",NULL
+"495","Dodge Durango II","496","2004","2008"
+"496","Dodge Durango I","496","1998","2004"
+"497","Dodge Grand Caravan V","498","2007",NULL
+"498","Dodge Grand Caravan IV","498","2001","2007"
+"499","Dodge Grand Caravan III","498","1995","2001"
+"500","Dodge Grand Caravan II","498","1990","1995"
+"501","Dodge Intrepid II","499","1998","2004"
+"502","Dodge Intrepid I","499","1992","1998"
+"503","Dodge Neon II","503","1999","2005"
+"504","Dodge Neon I","503","1993","2001"
+"505","Dodge RAM IV (DS/DJ)","506","2009",NULL
+"506","Dodge RAM III (DR/DH)","506","2001","2009"
+"507","Dodge RAM II (BR/BE)","506","1994","2001"
+"508","Dodge RAM I (D/W)","506","1981","1993"
+"509","Dodge Ramcharger II","507","1981","1993"
+"510","Dodge Ramcharger III","507","1981","1993"
+"511","Dodge Ramcharger I","507","1974","1980"
+"512","Dodge Stratus II","511","2001","2006"
+"513","Dodge Stratus I","511","1995","2001"
+"514","Dodge Viper V","512","2012",NULL
+"515","Dodge Viper IV","512","2008","2010"
+"516","Dodge Viper III","512","2003","2006"
+"517","Dodge Viper II","512","1996","2002"
+"518","Dodge Viper I","512","1992","1996"
+"523","FAW Jetta II","534","2010",NULL
+"524","FAW Jetta I","534","1991","2010"
+"531","Ferrari 456 II (456M)","546","1998","2003"
+"532","Ferrari 456 I (456)","546","1992","1997"
+"546","Fiat 500 II","574","2007",NULL
+"547","Fiat 500 I","574","1957","1976"
+"548","Fiat Bravo II","582","2006","2013"
+"549","Fiat Bravo I","582","1995","2001"
+"550","Fiat Croma II","585","2005","2011"
+"551","Fiat Croma I","585","1985","1996"
+"552","Fiat Doblo II","586","2010",NULL
+"553","Fiat Doblo I Рестайлинг","586","2005",NULL
+"554","Fiat Doblo I","586","2000","2005"
+"556","Fiat Fiorino III","588","2007",NULL
+"557","Fiat Fiorino II","588","1987","2000"
+"558","Fiat Fiorino I","588","1977","1990"
+"560","Fiat Multipla I Рестайлинг","593","2004","2010"
+"561","Fiat Multipla I","593","1998","2005"
+"563","Fiat Panda III","595","2011",NULL
+"564","Fiat Panda II","595","2003","2012"
+"565","Fiat Panda I","595","1981","2003"
+"566","Fiat Punto III Punto","596","2012",NULL
+"567","Fiat Punto III Punto Evo","596","2009","2012"
+"568","Fiat Punto III Grande Punto","596","2005","2009"
+"569","Fiat Punto II Рестайлинг","596","2003","2010"
+"570","Fiat Punto II","596","1999","2003"
+"571","Fiat Punto I","596","1993","1999"
+"573","Fiat Ritmo II","599","1982","1988"
+"574","Fiat Ritmo I","599","1978","1989"
+"578","Fiat Ulysse II","607","2002","2010"
+"579","Fiat Ulysse I","607","1994","2002"
+"580","Fiat UNO II","608","1995","2002"
+"581","Fiat UNO I","608","1983","1995"
+"582","Ford Bronco V","614","1992","1998"
+"583","Ford Bronco IV","614","1987","1991"
+"584","Ford Bronco III","614","1980","1986"
+"585","Ford Bronco II","614","1978","1979"
+"586","Ford Bronco I","614","1966","1977"
+"587","Ford C-MAX II","615","2010",NULL
+"588","Ford C-MAX I Рестайлинг","615","2007","2010"
+"589","Ford C-MAX I","615","2003","2007"
+"590","Ford Capri III","616","1978","1987"
+"591","Ford Capri II","616","1974","1977"
+"593","Ford Crown Victoria II","620","1999","2011"
+"594","Ford Crown Victoria I","620","1992","1997"
+"595","Ford Escape III","624","2012",NULL
+"596","Ford Escape II","624","2007","2012"
+"597","Ford Escape I","624","2000","2012"
+"598","Ford Escort (North America) III","625","1998","2003"
+"599","Ford Escort (North America) II","625","1991","1996"
+"600","Ford Escort V Рестайлинг 2","626","1995","2000"
+"601","Ford Escort V Рестайлинг 1","626","1991","1996"
+"602","Ford Escort V","626","1990","1992"
+"603","Ford Escort IV","626","1985","1990"
+"604","Ford Escort III","626","1980","1985"
+"605","Ford Escort II","626","1973","1981"
+"606","Ford Escort I","626","1968","1976"
+"607","Ford Everest II","627","2006","2009"
+"608","Ford Everest I","627","2003","2006"
+"609","Ford Expedition III","629","2006","2014"
+"610","Ford Expedition II","629","2003","2006"
+"611","Ford Expedition I","629","1996","2003"
+"612","Ford Explorer V","630","2010",NULL
+"613","Ford Explorer IV","630","2003","2010"
+"614","Ford Explorer III","630","2002","2006"
+"615","Ford Explorer II","630","1995","2003"
+"616","Ford Explorer I","630","1991","1994"
+"617","Ford F-150 XII","631","2009",NULL
+"618","Ford F-150 XI","631","2005","2008"
+"619","Ford F-150 X","631","1997","2004"
+"620","Ford F-150 VIII","631","1987","1991"
+"621","Ford Festiva III","633","1996","2002"
+"622","Ford Festiva II","633","1994","1997"
+"623","Ford Festiva I","633","1986","1993"
+"624","Ford Fiesta VI Рестайлинг","634","2013",NULL
+"625","Ford Fiesta VI","634","2008","2013"
+"626","Ford Fiesta V","634","2001","2009"
+"627","Ford Fiesta IV","634","1996","2001"
+"628","Ford Fiesta III","634","1989","1995"
+"629","Ford Fiesta II","634","1983","1989"
+"630","Ford Fiesta I","634","1976","1983"
+"631","Ford Flex I Рестайлинг","636","2013",NULL
+"632","Ford Flex I","636","2008","2013"
+"633","Ford Focus III","637","2011",NULL
+"634","Ford Focus II Рестайлинг","637","2008","2011"
+"635","Ford Focus II (North America)","637","2007","2011"
+"636","Ford Focus I Рестайлинг (North America)","637","2005","2007"
+"637","Ford Focus II","637","2005","2008"
+"638","Ford Focus I Рестайлинг","637","2001","2005"
+"639","Ford Focus I (North America)","637","1999","2005"
+"640","Ford Focus I","637","1998","2001"
+"641","Ford Fusion (North America) II","640","2012",NULL
+"642","Ford Fusion (North America) I","640","2005","2012"
+"643","Ford Galaxy II Рестайлинг","642","2010",NULL
+"644","Ford Galaxy II","642","2006","2010"
+"645","Ford Galaxy I Рестайлинг","642","2000","2006"
+"646","Ford Galaxy I","642","1995","2000"
+"647","Ford Granada (North America) II","643","1980","1982"
+"648","Ford Granada (North America) I","643","1975","1980"
+"649","Ford Granada II","644","1977","1985"
+"650","Ford Granada I","644","1972","1977"
+"651","Ford KA II","647","2009",NULL
+"652","Ford KA I","647","1996","2008"
+"653","Ford Kuga II","648","2012",NULL
+"654","Ford Kuga I","648","2008","2012"
+"655","Ford Maverick II","651","2000","2007"
+"656","Ford Maverick I","651","1993","1998"
+"657","Ford Mondeo V","652","2014",NULL
+"658","Ford Mondeo IV","652","2006","2014"
+"659","Ford Mondeo III","652","2000","2007"
+"660","Ford Mondeo II","652","1994","2001"
+"661","Ford Mondeo I","652","1993","1996"
+"662","Ford Mustang VI","653","2014",NULL
+"663","Ford Mustang V","653","2004","2014"
+"664","Ford Mustang IV","653","1993","2005"
+"665","Ford Mustang III","653","1978","1993"
+"666","Ford Mustang I","653","1964","1974"
+"667","Ford Orion III","654","1990","1993"
+"668","Ford Orion II","654","1985","1990"
+"669","Ford Orion I","654","1983","1986"
+"670","Ford Probe II","655","1993","1998"
+"671","Ford Probe I","655","1988","1993"
+"672","Ford Ranger (North America) III","657","1998","2011"
+"673","Ford Ranger (North America) II","657","1993","1997"
+"674","Ford Ranger III","658","2011",NULL
+"675","Ford Ranger II Рестайлинг","658","2009","2012"
+"676","Ford Ranger II","658","2006","2009"
+"677","Ford Ranger I","658","1998","2006"
+"678","Ford S-MAX I Рестайлинг","659","2010",NULL
+"679","Ford S-MAX I","659","2006","2010"
+"680","Ford Scorpio II","660","1994","1998"
+"681","Ford Scorpio I","660","1985","1994"
+"682","Ford Sierra I Рестайлинг","661","1987","1993"
+"683","Ford Sierra I","661","1982","1989"
+"684","Ford Sport Trac II","662","2006","2010"
+"685","Ford Sport Trac I","662","2001","2005"
+"686","Ford Taunus III","663","1979","1982"
+"687","Ford Taunus II","663","1975","1979"
+"688","Ford Taunus I","663","1970","1976"
+"689","Ford Taurus VI","664","2009",NULL
+"690","Ford Taurus V","664","2008","2009"
+"691","Ford Taurus IV","664","2000","2007"
+"692","Ford Taurus III","664","1996","1999"
+"693","Ford Taurus II","664","1992","1995"
+"694","Ford Taurus I","664","1986","1991"
+"696","Ford Thunderbird XI (Retro Birds)","667","2000","2006"
+"697","Ford Thunderbird X (Super Birds)","667","1988","1997"
+"698","Ford Thunderbird IX (Aero Birds)","667","1983","1988"
+"700","FSO Polonez II (Caro)","676","1992","2002"
+"701","FSO Polonez I Рестайлинг","676","1987","1992"
+"702","FSO Polonez I","676","1977","1991"
+"704","Geely MK I Рестайлинг","688","2013",NULL
+"705","Geely MK I","688","2008","2013"
+"708","Geo Prizm III","691","1997","2002"
+"709","Geo Prizm II","691","1993","1997"
+"712","GMC Envoy II(GMT840)","697","2001","2009"
+"713","GMC Envoy I(GMT330)","697","1997","2001"
+"715","GMC Safari II","699","1995","2005"
+"716","GMC Safari I","699","1985","1994"
+"717","GMC Savana II","700","2003",NULL
+"718","GMC Savana I","700","1996","2002"
+"719","GMC Sierra III(GMT900)","701","2007","2014"
+"720","GMC Sierra II(GMT800)","701","1999","2007"
+"721","GMC Sierra I(GMT400)","701","1988","2000"
+"722","GMC Sonoma II(GMT400)","702","1994","2004"
+"723","GMC Yukon IV (GMT K2UG)","708","2014",NULL
+"724","GMC Yukon III (GMT900)","708","2006",NULL
+"725","GMC Yukon II (GMT800)","708","2000","2006"
+"726","GMC Yukon I (GMT400)","708","1991","2000"
+"728","Great Wall Hover II (H6)","714","2012",NULL
+"729","Great Wall Hover I Рестайлинг (H3)","714","2010",NULL
+"730","Great Wall Hover I Рестайлинг 2 (H5)","714","2010",NULL
+"731","Great Wall Hover I","714","2005","2010"
+"732","Great Wall Wingle II (Wingle 5)","725","2011",NULL
+"733","Great Wall Wingle I (Wingle 3)","725","2005",NULL
+"737","Holden Barina IV (XC)","738","2001","2005"
+"738","Holden Barina III (SB)","738","1997","2000"
+"739","Holden Calais III","739","1997","2006"
+"740","Holden Calais II","739","1988","1997"
+"741","Holden Caprice II","740","1998","2006"
+"742","Holden Caprice I","740","1990","1999"
+"743","Holden Commodore III (VT)","742","1997","2002"
+"744","Holden Commodore II (VS)","742","1990","1997"
+"745","Holden Statesmann II","748","1999","2006"
+"746","Holden Statesmann I","748","1990","1998"
+"747","Holden UTE IV","750","2006",NULL
+"748","Holden UTE III","750","2000","2006"
+"750","Honda Accord IX","753","2012",NULL
+"751","Honda Accord VIII","753","2007","2012"
+"752","Honda Accord VII","753","2002","2008"
+"753","Honda Accord VI","753","1997","2002"
+"754","Honda Accord V","753","1993","1998"
+"755","Honda Accord IV","753","1990","1993"
+"756","Honda Accord III","753","1985","1989"
+"757","Honda Accord II","753","1981","1985"
+"758","Honda Accord I","753","1978","1981"
+"759","Honda City V","759","2008",NULL
+"760","Honda City IV","759","2006","2008"
+"761","Honda City III","759","1996","2002"
+"762","Honda City II","759","1986","1994"
+"763","Honda City I","759","1981","1986"
+"764","Honda Civic Ferio III","760","2000","2005"
+"765","Honda Civic Ferio II","760","1995","2000"
+"766","Honda Civic Ferio I","760","1991","1995"
+"767","Honda Civic IX Рестайлинг","761","2013",NULL
+"768","Honda Civic IX","761","2012",NULL
+"769","Honda Civic VIII","761","2005","2011"
+"770","Honda Civic VII","761","2001","2006"
+"771","Honda Civic VI","761","1995","2002"
+"772","Honda Civic V","761","1991","1997"
+"773","Honda Civic IV","761","1987","1991"
+"774","Honda Civic III","761","1983","1987"
+"775","Honda Civic II","761","1979","1997"
+"776","Honda Civic I","761","1972","1979"
+"778","Honda CR-V IV","763","2012",NULL
+"779","Honda CR-V III","763","2006","2012"
+"780","Honda CR-V II","763","2002","2006"
+"781","Honda CR-V I","763","1995","2002"
+"782","Honda CR-X III","764","1992","1997"
+"783","Honda CR-X II","764","1987","1992"
+"784","Honda CR-X I","764","1983","1987"
+"785","Honda Crosstour I Рестайлинг","767","2013",NULL
+"786","Honda Crosstour I","767","2010","2013"
+"787","Honda Domani II","768","1997","2000"
+"788","Honda Domani I","768","1992","1996"
+"789","Honda Element I Рестайлинг","770","2008","2011"
+"790","Honda Element I","770","2003","2008"
+"791","Honda Fit II","774","2007","2014"
+"792","Honda Fit I","774","2001","2007"
+"794","Honda Insight II","778","2009",NULL
+"795","Honda Insight I","778","1999","2006"
+"796","Honda Inspire V","779","2007","2012"
+"797","Honda Inspire IV","779","2003","2007"
+"798","Honda Inspire III","779","1998","2003"
+"799","Honda Inspire II","779","1995","1998"
+"800","Honda Inspire I","779","1989","1995"
+"801","Honda Integra IV","780","2001","2006"
+"802","Honda Integra III","780","1993","2001"
+"803","Honda Integra II","780","1989","1993"
+"804","Honda Integra I","780","1985","1989"
+"805","Honda Jazz II","782","2008",NULL
+"806","Honda Jazz I","782","2001","2008"
+"807","Honda Legend IV","783","2004","2012"
+"808","Honda Legend III","783","1996","2004"
+"809","Honda Legend II","783","1991","1996"
+"810","Honda Legend I","783","1986","1990"
+"811","Honda Life V","784","2008",NULL
+"812","Honda Life IV","784","2003","2008"
+"813","Honda Life III","784","1998","2003"
+"815","Honda Odyssey (North America) IV","789","2010",NULL
+"816","Honda Odyssey (North America) III","789","2005","2010"
+"817","Honda Odyssey (North America) II","789","2002","2004"
+"818","Honda Odyssey (North America) I","789","1994","1999"
+"819","Honda Odyssey IV","790","2008",NULL
+"820","Honda Odyssey III","790","2004","2008"
+"821","Honda Odyssey II","790","1999","2004"
+"822","Honda Odyssey I","790","1994","1999"
+"823","Honda Partner II","792","2005","2010"
+"824","Honda Partner I","792","1996","2004"
+"825","Honda Passport II","793","1998","2002"
+"826","Honda Passport I","793","1993","1998"
+"827","Honda Pilot II","794","2008",NULL
+"828","Honda Pilot I","794","2002","2008"
+"829","Honda Prelude V","795","1996","2001"
+"830","Honda Prelude IV","795","1992","1996"
+"831","Honda Prelude III","795","1986","1992"
+"832","Honda Prelude II","795","1983","1987"
+"833","Honda Prelude I","795","1978","1982"
+"834","Honda Saber II","801","1995","2003"
+"835","Honda Saber I","801","1995","1998"
+"836","Honda Stepwgn IV","803","2009",NULL
+"837","Honda Stepwgn III","803","2005","2009"
+"838","Honda Stepwgn II","803","1998","2005"
+"839","Honda Stepwgn I","803","1996","2001"
+"840","Honda Stream II","804","2006",NULL
+"841","Honda Stream I","804","2000","2006"
+"844","Hyundai Accent IV","818","2010",NULL
+"845","Hyundai Accent III","818","2006","2011"
+"846","Hyundai Accent II","818","1999","2012"
+"847","Hyundai Accent I","818","1994","2000"
+"848","Hyundai Avante V","820","2010",NULL
+"849","Hyundai Avante IV","820","2006","2010"
+"850","Hyundai Avante III","820","2000","2006"
+"851","Hyundai Avante II","820","1995","2000"
+"852","Hyundai Coupe II (GK)","822","2001","2009"
+"853","Hyundai Coupe I Рестайлинг (RD2)","822","1999","2002"
+"854","Hyundai Coupe I (RD)","822","1996","1999"
+"855","Hyundai Elantra V (MD)","824","2010",NULL
+"856","Hyundai Elantra IV (HD)","824","2006","2010"
+"857","Hyundai Elantra III (XD)","824","2000","2010"
+"858","Hyundai Elantra II (J2, J3)","824","1995","2000"
+"859","Hyundai Elantra I (J1)","824","1990","1995"
+"860","Hyundai Equus I","825","2009","2013"
+"861","Hyundai Excel II","826","1989","1998"
+"862","Hyundai Excel I","826","1985","1989"
+"864","Hyundai Genesis II","828","2014",NULL
+"865","Hyundai Genesis I","828","2008","2014"
+"867","Hyundai Grandeur V","831","2011",NULL
+"868","Hyundai Grandeur IV","831","2005","2011"
+"869","Hyundai Grandeur III","831","1998","2005"
+"870","Hyundai Grandeur II","831","1992","1998"
+"871","Hyundai Grandeur I","831","1986","1992"
+"872","Hyundai i10 II","832","2013",NULL
+"873","Hyundai i10 I","832","2008",NULL
+"875","Hyundai i30 II","834","2011",NULL
+"876","Hyundai i30 I","834","2007","2011"
+"878","Hyundai Lantra II","839","1995","2000"
+"879","Hyundai Lantra I","839","1990","1995"
+"880","Hyundai Pony II","844","1982","1995"
+"881","Hyundai Pony I","844","1975","1982"
+"882","Hyundai Santa Fe III","845","2012",NULL
+"883","Hyundai Santa Fe II","845","2006","2012"
+"884","Hyundai Santa Fe I","845","2000","2012"
+"885","Hyundai Solaris I Рестайлинг","848","2014",NULL
+"886","Hyundai Solaris I","848","2011","2014"
+"887","Hyundai Sonata VI (YF)","849","2010",NULL
+"888","Hyundai Sonata V (NF)","849","2004","2010"
+"889","Hyundai Sonata IV (EF) Рестайлинг","849","2001","2012"
+"890","Hyundai Sonata IV (EF)","849","1998","2001"
+"891","Hyundai Sonata III Рестайлинг","849","1996","1998"
+"892","Hyundai Sonata III","849","1993","1996"
+"893","Hyundai Sonata II","849","1988","1993"
+"894","Hyundai Starex (H-1) II","850","2007",NULL
+"895","Hyundai Starex (H-1) I","850","1997","2007"
+"896","Hyundai Tiburon II","853","2002","2009"
+"897","Hyundai Tiburon I","853","1996","2002"
+"898","Hyundai Tucson II","855","2009",NULL
+"899","Hyundai Tucson I","855","2004","2009"
+"900","Hyundai Verna III","859","2006","2009"
+"901","Hyundai Verna II","859","1999","2005"
+"902","Infiniti FX II Рестайлинг","862","2012","2013"
+"903","Infiniti FX II","862","2008","2012"
+"904","Infiniti FX I","862","2003","2009"
+"905","Infiniti G IV","863","2006","2013"
+"906","Infiniti G III","863","2002","2007"
+"907","Infiniti G II","863","1999","2002"
+"908","Infiniti G I","863","1991","1996"
+"909","Infiniti I II","864","2000","2004"
+"910","Infiniti I I","864","1995","1999"
+"911","Infiniti M IV","867","2010","2014"
+"912","Infiniti M III","867","2005","2010"
+"913","Infiniti M II","867","2002","2004"
+"914","Infiniti M I","867","1989","1993"
+"915","Infiniti Q III","868","2001","2006"
+"916","Infiniti Q II","868","1996","2001"
+"917","Infiniti Q I","868","1989","1996"
+"918","Infiniti QX III","871","2010","2013"
+"919","Infiniti QX II","871","2004","2010"
+"920","Infiniti QX I","871","1997","2003"
+"921","Infiniti QX80 I Рестайлинг","875","2014",NULL
+"922","Infiniti QX80 I","875","2013","2014"
+"925","Isuzu Amigo II","886","1998","2000"
+"926","Isuzu Amigo I","886","1989","1994"
+"927","Isuzu Aska IV","888","1997","2001"
+"928","Isuzu Aska III","888","1994","1997"
+"929","Isuzu Aska II","888","1990","1993"
+"930","Isuzu Aska I","888","1983","1989"
+"931","Isuzu Bighorn II","890","1992","2002"
+"932","Isuzu Bighorn I","890","1981","1991"
+"933","Isuzu D-Max II","891","2011",NULL
+"934","Isuzu D-Max I Рестайлинг","891","2008",NULL
+"935","Isuzu D-Max I","891","2002","2008"
+"936","Isuzu Gemini V","892","1997","2000"
+"937","Isuzu Gemini IV","892","1993","1996"
+"938","Isuzu Gemini III","892","1990","1993"
+"939","Isuzu Gemini II","892","1985","1990"
+"940","Isuzu Gemini I","892","1974","1984"
+"941","Isuzu Impulse II","893","1990","1993"
+"942","Isuzu Impulse I","893","1983","1990"
+"944","Isuzu Mu II","895","2001","2004"
+"945","Isuzu Mu I","895","1989","1998"
+"946","Isuzu Piazza II","897","1990","1993"
+"947","Isuzu Piazza I","897","1980","1990"
+"948","Isuzu Rodeo II","898","1998","2004"
+"949","Isuzu Rodeo I","898","1989","2000"
+"951","Isuzu Trooper II","901","1992","2002"
+"952","Isuzu Trooper I","901","1981","1991"
+"953","Isuzu Wizard II","903","1998","2004"
+"954","Isuzu Wizard I","903","1990","1998"
+"956","JAC S1 (Rein) I Рестайлинг","911","2011",NULL
+"957","JAC S1 (Rein) I","911","2007","2011"
+"958","Jaguar E-type 2+2 Series 3","913","1971","1975"
+"959","Jaguar E-type 2+2 Series 2","913","1968","1971"
+"960","Jaguar E-type 2+2 Series 1","913","1966","1968"
+"961","Jaguar E-type Series 3","914","1971","1975"
+"962","Jaguar E-type Series 2","914","1968","1971"
+"963","Jaguar E-type Series 1","914","1961","1968"
+"966","Jaguar XF I Рестайлинг","918","2011",NULL
+"967","Jaguar XF I","918","2007","2011"
+"968","Jaguar XJ IV (X351)","919","2009",NULL
+"969","Jaguar XJ III (X350/X358)","919","2003","2009"
+"970","Jaguar XJ II (X308)","919","1997","2003"
+"971","Jaguar XJ II (X300)","919","1994","1997"
+"972","Jaguar XJ II (XJ40)","919","1986","1994"
+"973","Jaguar XJ I (Series 3)","919","1979","1992"
+"974","Jaguar XJ I (Series 2)","919","1973","1986"
+"975","Jaguar XJ I (Series 1)","919","1968","1975"
+"976","Jaguar XJS Series 3","921","1990","1996"
+"977","Jaguar XJS Series 2","921","1981","1992"
+"978","Jaguar XJS Series 1","921","1975","1981"
+"979","Jaguar XK II","922","2006","2014"
+"980","Jaguar XK I","922","1996","2006"
+"981","Jeep Cherokee V (KL)","923","2013",NULL
+"982","Jeep Cherokee IV (KK)","923","2007","2012"
+"983","Jeep Cherokee III (KJ)","923","2001","2008"
+"984","Jeep Cherokee II (XJ)","923","1984","2001"
+"985","Jeep Compass I Рестайлинг","926","2010",NULL
+"986","Jeep Compass I","926","2006","2010"
+"987","Jeep Grand Cherokee IV (WK2) Рестайлинг","927","2013",NULL
+"988","Jeep Grand Cherokee IV (WK2)","927","2010","2013"
+"989","Jeep Grand Cherokee III (WK)","927","2004","2010"
+"990","Jeep Grand Cherokee II (WJ)","927","1999","2004"
+"991","Jeep Grand Cherokee I (ZJ)","927","1991","1999"
+"992","Jeep Liberty (North America) II","929","2007","2012"
+"993","Jeep Liberty (North America) I","929","2000","2007"
+"994","Jeep Wrangler III (JK)","931","2006",NULL
+"995","Jeep Wrangler II (TJ)","931","1997","2006"
+"996","Jeep Wrangler I (YJ)","931","1986","1995"
+"998","Kia Carens IV","937","2013",NULL
+"999","Kia Carens III","937","2006","2012"
+"1000","Kia Carens II","937","2002","2006"
+"1001","Kia Carens I","937","1999","2002"
+"1002","Kia Carnival II","938","2006",NULL
+"1003","Kia Carnival I Рестайлинг","938","2002","2006"
+"1004","Kia Carnival I","938","1999","2002"
+"1005","Kia Cee'd II","939","2012",NULL
+"1006","Kia Cee'd I Рестайлинг","939","2010","2012"
+"1007","Kia Cee'd I","939","2006","2010"
+"1008","Kia Cerato III","940","2013",NULL
+"1009","Kia Cerato II","940","2009","2013"
+"1010","Kia Cerato I","940","2004","2009"
+"1011","Kia Clarus II","941","1998","2001"
+"1012","Kia Clarus I","941","1996","1998"
+"1013","Kia Magentis II Рестайлинг","946","2008","2010"
+"1014","Kia Magentis II","946","2005","2008"
+"1015","Kia Magentis I","946","2000","2005"
+"1016","Kia Optima III Рестайлинг","949","2013",NULL
+"1017","Kia Optima III","949","2010","2014"
+"1018","Kia Optima II Рестайлинг","949","2008","2010"
+"1019","Kia Optima II","949","2005","2008"
+"1020","Kia Optima I","949","2000","2005"
+"1021","Kia Picanto II","950","2011",NULL
+"1022","Kia Picanto I","950","2004","2011"
+"1024","Kia Rio III","956","2011",NULL
+"1025","Kia Rio II","956","2005","2011"
+"1026","Kia Rio I","956","2000","2005"
+"1027","Kia Sephia II","958","1998","2004"
+"1028","Kia Sephia I","958","1993","1999"
+"1029","Kia Shuma II","959","2001","2004"
+"1030","Kia Shuma I","959","1996","2001"
+"1031","Kia Sorento II Рестайлинг","960","2012",NULL
+"1032","Kia Sorento II","960","2009","2012"
+"1033","Kia Sorento I Рестайлинг","960","2006","2011"
+"1034","Kia Sorento I","960","2002","2006"
+"1035","Kia Soul II","961","2013",NULL
+"1036","Kia Soul I","961","2009",NULL
+"1037","Kia Sportage III Рестайлинг","963","2014",NULL
+"1038","Kia Sportage III","963","2010","2014"
+"1039","Kia Sportage II","963","2004","2010"
+"1040","Kia Sportage I","963","1993","2006"
+"1043","Lamborghini Gallardo I Рестайлинг","977","2007","2013"
+"1044","Lamborghini Gallardo I","977","2003","2007"
+"1048","Lancia Delta III (844)","990","2008",NULL
+"1049","Lancia Delta II (836)","990","1993","1999"
+"1050","Lancia Delta I (831)","990","1979","1994"
+"1054","Lancia Thema II","1000","2011",NULL
+"1055","Lancia Thema I","1000","1984","1994"
+"1056","Lancia Ypsilon III (Type 846)","1004","2011",NULL
+"1057","Lancia Ypsilon II (Type 843)","1004","2003","2011"
+"1058","Lancia Ypsilon I (Type 840)","1004","1996","2003"
+"1060","Land Rover Discovery IV","1007","2009",NULL
+"1061","Land Rover Discovery III","1007","2004","2009"
+"1062","Land Rover Discovery II","1007","1998","2004"
+"1063","Land Rover Discovery I","1007","1989","1998"
+"1064","Land Rover Freelander II Рестайлинг 2","1008","2012",NULL
+"1065","Land Rover Freelander II Рестайлинг","1008","2010","2012"
+"1066","Land Rover Freelander II","1008","2006","2010"
+"1067","Land Rover Freelander I","1008","1998","2006"
+"1069","Land Rover Range Rover IV","1010","2012",NULL
+"1070","Land Rover Range Rover III","1010","2002","2012"
+"1071","Land Rover Range Rover II","1010","1994","2002"
+"1072","Land Rover Range Rover I","1010","1970","1996"
+"1073","Land Rover Range Rover Sport II","1011","2013",NULL
+"1074","Land Rover Range Rover Sport I Рестайлинг","1011","2009","2013"
+"1075","Land Rover Range Rover Sport I","1011","2005","2009"
+"1076","Lexus CT I Рестайлинг","1019","2014",NULL
+"1077","Lexus CT I","1019","2010","2014"
+"1078","Lexus ES VI","1020","2012",NULL
+"1079","Lexus ES V","1020","2006","2012"
+"1080","Lexus ES IV","1020","2001","2006"
+"1081","Lexus ES III","1020","1996","2001"
+"1082","Lexus ES II","1020","1991","1996"
+"1083","Lexus ES I","1020","1989","1991"
+"1084","Lexus GS IV","1021","2012",NULL
+"1085","Lexus GS III","1021","2004","2012"
+"1086","Lexus GS II","1021","1997","2004"
+"1087","Lexus GS I","1021","1993","1997"
+"1088","Lexus GX II Рестайлинг","1022","2013",NULL
+"1089","Lexus GX II","1022","2009","2013"
+"1090","Lexus GX I","1022","2002","2009"
+"1091","Lexus HS I Рестайлинг","1023","2012",NULL
+"1092","Lexus HS I","1023","2009","2012"
+"1093","Lexus IS III","1024","2013",NULL
+"1094","Lexus IS II","1024","2005","2014"
+"1095","Lexus IS I","1024","1998","2005"
+"1096","Lexus LS IV Рестайлинг","1026","2012",NULL
+"1097","Lexus LS IV","1026","2006","2012"
+"1098","Lexus LS III","1026","2000","2006"
+"1099","Lexus LS II","1026","1994","2000"
+"1100","Lexus LS I","1026","1989","1994"
+"1101","Lexus LX III Рестайлинг","1027","2012",NULL
+"1102","Lexus LX III","1027","2007","2012"
+"1103","Lexus LX II","1027","1998","2007"
+"1104","Lexus LX I","1027","1995","1998"
+"1105","Lexus RX III Рестайлинг","1029","2012",NULL
+"1106","Lexus RX III","1029","2009","2012"
+"1107","Lexus RX II","1029","2003","2009"
+"1108","Lexus RX I","1029","1997","2003"
+"1109","Lexus SC II","1030","2001","2010"
+"1110","Lexus SC I","1030","1991","2001"
+"1112","Lincoln Continental Continental IX","1038","1995","2002"
+"1113","Lincoln Continental Continental VIII","1038","1988","1994"
+"1114","Lincoln LS I Рестайлинг","1039","2003","2006"
+"1115","Lincoln LS I","1039","1999","2002"
+"1116","Lincoln MKX I Рестайлинг","1046","2011",NULL
+"1117","Lincoln MKX I","1046","2006","2011"
+"1118","Lincoln MKZ II","1047","2013",NULL
+"1119","Lincoln MKZ I (Zephyr)","1047","2006","2012"
+"1120","Lincoln Navigator III","1048","2007","2013"
+"1121","Lincoln Navigator II","1048","2002","2006"
+"1122","Lincoln Navigator I","1048","1997","2003"
+"1123","Lincoln Town Car III","1049","1998","2011"
+"1124","Lincoln Town Car II","1049","1989","1997"
+"1125","Lincoln Town Car I","1049","1980","1989"
+"1126","Lotus Elise II Рестайлинг","1053","2010",NULL
+"1127","Lotus Elise II","1053","2000","2010"
+"1128","Lotus Elise I","1053","1995","2000"
+"1129","Lotus Esprit V","1055","1993","2004"
+"1130","Lotus Esprit IV","1055","1987","1993"
+"1131","Lotus Esprit III","1055","1981","1987"
+"1132","Lotus Esprit II","1055","1978","1981"
+"1133","Lotus Esprit I","1055","1976","1979"
+"1134","Lotus Exige III","1060","2006","2007"
+"1135","Lotus Exige II","1060","2004","2007"
+"1136","Lotus Exige I","1060","2001","2004"
+"1137","LTI TX II","1061","2002",NULL
+"1138","LTI TX I","1061","1998","2002"
+"1140","Mahindra Verito I Рестайлинг","1076","2012",NULL
+"1141","Mahindra Verito I","1076","2011","2012"
+"1148","Maserati Ghibli III","1106","2013",NULL
+"1149","Maserati Ghibli II","1106","1992","1997"
+"1151","Maserati Quattroporte VI","1115","2012",NULL
+"1152","Maserati Quattroporte V","1115","2003","2012"
+"1153","Maserati Quattroporte IV","1115","1994","2000"
+"1154","Maserati Quattroporte III","1115","1976","1989"
+"1156","Mazda 121 III","1121","1996","2002"
+"1157","Mazda 121 II","1121","1990","1996"
+"1158","Mazda 121 I","1121","1987","1990"
+"1159","Mazda 2 II Рестайлинг (DE2)","1123","2010",NULL
+"1160","Mazda 2 II (DE)","1123","2007","2010"
+"1161","Mazda 2 I (DY)","1123","2003","2007"
+"1162","Mazda 3 III","1124","2013",NULL
+"1163","Mazda 3 II (BL)","1124","2009","2013"
+"1164","Mazda 3 I (BK)","1124","2003","2009"
+"1165","Mazda 323 VI (BJ)","1125","1998","2003"
+"1166","Mazda 323 V (BA)","1125","1994","1998"
+"1167","Mazda 323 IV (BG)","1125","1989","1995"
+"1168","Mazda 323 III (BF)","1125","1985","1993"
+"1169","Mazda 323 II (BD)","1125","1980","1986"
+"1170","Mazda 323 I (FA)","1125","1977","1986"
+"1171","Mazda 5 II (CW)","1126","2010",NULL
+"1172","Mazda 5 I (CR)","1126","2005","2010"
+"1173","Mazda 6 III","1127","2012",NULL
+"1174","Mazda 6 II (GH)","1127","2007","2013"
+"1175","Mazda 6 I (GG)","1127","2002","2008"
+"1176","Mazda 626 V (GF)","1129","1997","2002"
+"1177","Mazda 626 IV (GE)","1129","1991","1998"
+"1178","Mazda 626 III (GD)","1129","1987","1996"
+"1179","Mazda 626 II (GC)","1129","1982","1987"
+"1180","Mazda 626 I (CB)","1129","1979","1982"
+"1181","Mazda 929 III (HC)","1131","1988","1996"
+"1182","Mazda 929 II (HB)","1131","1982","1987"
+"1183","Mazda 929 I (LA)","1131","1979","1986"
+"1185","Mazda Axela III","1133","2013",NULL
+"1186","Mazda Axela II","1133","2009","2013"
+"1187","Mazda Axela I","1133","2003","2009"
+"1188","Mazda B-series V","1137","1997","2006"
+"1189","Mazda B-series IV","1137","1985","1998"
+"1190","Mazda Bongo IV","1140","1999",NULL
+"1191","Mazda Bongo III","1140","1990","1994"
+"1192","Mazda Capella VI","1142","1997","2002"
+"1193","Mazda Capella V","1142","1994","1997"
+"1194","Mazda Capella IV","1142","1988","1997"
+"1195","Mazda Carol VI","1143","2009",NULL
+"1196","Mazda Carol V","1143","2004","2009"
+"1197","Mazda Carol IV","1143","1998","2003"
+"1198","Mazda Carol III","1143","1989","1998"
+"1199","Mazda CX-9 I Рестайлинг","1147","2012",NULL
+"1200","Mazda CX-9 I","1147","2007","2012"
+"1201","Mazda Demio III (DE)","1148","2007",NULL
+"1202","Mazda Demio II (DY)","1148","2002","2007"
+"1203","Mazda Demio I (DW)","1148","1997","2003"
+"1204","Mazda Familia VIII (BJ)","1156","1998","2004"
+"1205","Mazda Familia VII (BH)","1156","1994","1998"
+"1206","Mazda Familia VI (BG)","1156","1989","1994"
+"1207","Mazda Luce V","1159","1986","1991"
+"1208","Mazda Luce III","1159","1977","1981"
+"1209","Mazda MPV III (LY)","1161","2006",NULL
+"1210","Mazda MPV II (LW)","1161","1999","2006"
+"1211","Mazda MPV I (LV)","1161","1990","1999"
+"1212","Mazda MX-5 III (NC) Рестайлинг","1163","2008",NULL
+"1213","Mazda MX-5 III (NC)","1163","2005","2008"
+"1214","Mazda MX-5 II (NB)","1163","1998","2005"
+"1215","Mazda MX-5 I (NA)","1163","1990","1998"
+"1216","Mazda Premacy III (CW)","1167","2010",NULL
+"1217","Mazda Premacy II (CR)","1167","2005","2010"
+"1218","Mazda Premacy I (CP)","1167","1999","2004"
+"1219","Mazda Proceed Levante II","1168","1997","2005"
+"1220","Mazda Proceed Levante I","1168","1988","1997"
+"1221","Mazda Protege III (BJ)","1170","1998","2004"
+"1222","Mazda Protege II (BH)","1170","1994","1999"
+"1223","Mazda Roadster III (NC)","1172","2005",NULL
+"1224","Mazda Roadster II (NB)","1172","1998","2005"
+"1225","Mazda RX-7 III (FD)","1173","1992","2002"
+"1226","Mazda RX-7 II (FC)","1173","1985","1991"
+"1227","Mazda RX-7 I (SA)","1173","1979","1986"
+"1228","Mazda Sentia II (HE)","1176","1995","2000"
+"1229","Mazda Sentia I (HD)","1176","1991","1995"
+"1230","Mazda Tribute II","1178","2007","2011"
+"1231","Mazda Tribute I","1178","2000","2007"
+"1233","Mercedes-Benz A-klasse III (W176)","1187","2012",NULL
+"1234","Mercedes-Benz A-klasse II (W169)","1187","2004","2012"
+"1235","Mercedes-Benz A-klasse I (W168)","1187","1997","2004"
+"1236","Mercedes-Benz B-klasse II (W246)","1188","2011",NULL
+"1237","Mercedes-Benz B-klasse I (W245) Рестайлинг","1188","2008","2011"
+"1238","Mercedes-Benz B-klasse I (W245)","1188","2005","2009"
+"1239","Mercedes-Benz C-klasse IV (W205)","1189","2014",NULL
+"1240","Mercedes-Benz C-klasse III (W204) Рестайлинг","1189","2011",NULL
+"1241","Mercedes-Benz C-klasse III (W204)","1189","2006","2011"
+"1242","Mercedes-Benz C-klasse II (W203)","1189","2000","2007"
+"1243","Mercedes-Benz C-klasse I (W202)","1189","1993","2000"
+"1244","Mercedes-Benz CL-klasse III (C216) Рестайлинг","1191","2010",NULL
+"1245","Mercedes-Benz CL-klasse III (C216)","1191","2006","2010"
+"1246","Mercedes-Benz CL-klasse II (C215)","1191","1999","2006"
+"1247","Mercedes-Benz CL-klasse I (C140)","1191","1992","2000"
+"1248","Mercedes-Benz CLK-klasse II (W209)","1194","2002","2010"
+"1249","Mercedes-Benz CLK-klasse I (W208)","1194","1997","2003"
+"1250","Mercedes-Benz CLS-klasse II (W218)","1195","2011",NULL
+"1251","Mercedes-Benz CLS-klasse I (C219)","1195","2004","2010"
+"1252","Mercedes-Benz E-klasse IV (W212, S212, C207) Рестайлинг","1196","2013",NULL
+"1253","Mercedes-Benz E-klasse IV (W212, S212, C207)","1196","2009","2013"
+"1254","Mercedes-Benz E-klasse III (W211, S211)","1196","2002","2009"
+"1255","Mercedes-Benz E-klasse II (W210, S210)","1196","1995","2003"
+"1256","Mercedes-Benz E-klasse I (W124)","1196","1992","1996"
+"1257","Mercedes-Benz G-klasse II (W463) Рестайлинг II","1197","2012",NULL
+"1258","Mercedes-Benz G-klasse II (W463) Рестайлинг I","1197","2008","2012"
+"1259","Mercedes-Benz G-klasse II (W463)","1197","1989","2008"
+"1260","Mercedes-Benz G-klasse I (W460; W461)","1197","1979",NULL
+"1261","Mercedes-Benz GL-klasse II (X166)","1198","2012",NULL
+"1262","Mercedes-Benz GL-klasse I (X164)","1198","2006","2012"
+"1263","Mercedes-Benz GLK-klasse I (X204) Рестайлинг","1200","2012",NULL
+"1264","Mercedes-Benz GLK-klasse I (X204)","1200","2008","2012"
+"1265","Mercedes-Benz M-klasse III (W166)","1201","2011",NULL
+"1266","Mercedes-Benz M-klasse II (W164)","1201","2005","2011"
+"1267","Mercedes-Benz M-klasse I (W163)","1201","1997","2005"
+"1268","Mercedes-Benz R-klasse I Рестайлинг","1202","2010",NULL
+"1269","Mercedes-Benz R-klasse I","1202","2005","2009"
+"1270","Mercedes-Benz S-klasse VI (W222, C217)","1203","2013",NULL
+"1271","Mercedes-Benz S-klasse V (W221) Рестайлинг","1203","2009","2013"
+"1272","Mercedes-Benz S-klasse V (W221)","1203","2005","2009"
+"1273","Mercedes-Benz S-klasse IV (W220)","1203","1998","2005"
+"1274","Mercedes-Benz S-klasse III (W140)","1203","1991","2000"
+"1275","Mercedes-Benz S-klasse II (W126)","1203","1979","1991"
+"1276","Mercedes-Benz S-klasse I (W116)","1203","1972","1980"
+"1277","Mercedes-Benz SL-klasse VI (R231)","1204","2011",NULL
+"1278","Mercedes-Benz SL-klasse V Рестайлинг (R230 FL)","1204","2008","2011"
+"1279","Mercedes-Benz SL-klasse V (R230)","1204","2001","2008"
+"1280","Mercedes-Benz SL-klasse IV (R129)","1204","1989","2000"
+"1281","Mercedes-Benz SL-klasse III (R107)","1204","1971","1989"
+"1282","Mercedes-Benz SLK-klasse III (R172)","1205","2011",NULL
+"1283","Mercedes-Benz SLK-klasse II (R171)","1205","2004","2011"
+"1284","Mercedes-Benz SLK-klasse I (R170)","1205","1996","2004"
+"1287","Mercedes-Benz V-classe II","1208","2014",NULL
+"1289","Mercedes-Benz Viano I (W639) Рестайлинг","1210","2010",NULL
+"1290","Mercedes-Benz Viano I (W639)","1210","2003","2010"
+"1294","Mercury Cougar VIII","1216","1998","2002"
+"1295","Mercury Cougar VII","1216","1989","1997"
+"1296","Mercury Cougar VI","1216","1983","1988"
+"1297","Mercury Cougar V","1216","1980","1982"
+"1298","Mercury Cougar IV","1216","1977","1979"
+"1299","Mercury Grand Marquis IV","1217","2003","2011"
+"1300","Mercury Grand Marquis III","1217","1997","2002"
+"1301","Mercury Grand Marquis II","1217","1991","1997"
+"1302","Mercury Grand Marquis I","1217","1983","1991"
+"1304","Mercury Mariner II","1219","2008","2011"
+"1305","Mercury Mariner I","1219","2005","2008"
+"1307","Mercury Mountaineer III","1224","2006","2010"
+"1308","Mercury Mountaineer II","1224","2001","2006"
+"1309","Mercury Mountaineer I","1224","1997","2001"
+"1310","Mercury Sable V","1226","2008","2009"
+"1311","Mercury Sable IV","1226","2000","2005"
+"1312","Mercury Sable III","1226","1996","1999"
+"1313","Mercury Sable II","1226","1992","1995"
+"1314","Mercury Sable I","1226","1986","1991"
+"1315","Mercury Topaz II","1227","1988","1994"
+"1316","Mercury Topaz I","1227","1983","1988"
+"1318","Mercury Villager II","1229","1998","2002"
+"1319","Mercury Villager I","1229","1992","1998"
+"1325","Mini Cabrio II","1255","2009",NULL
+"1326","Mini Cabrio I","1255","2005","2008"
+"1327","Mini Hatch II Рестайлинг","1260","2010","2014"
+"1328","Mini Hatch II","1260","2006","2010"
+"1329","Mini Hatch I","1260","2001","2006"
+"1331","Mitsubishi ASX I Рестайлинг","1266","2012",NULL
+"1332","Mitsubishi ASX I","1266","2010","2012"
+"1334","Mitsubishi Chariot III","1270","1997","2003"
+"1335","Mitsubishi Chariot II","1270","1991","1997"
+"1336","Mitsubishi Colt VII","1271","2004","2012"
+"1337","Mitsubishi Colt VI","1271","1995","2003"
+"1338","Mitsubishi Colt V","1271","1991","1996"
+"1339","Mitsubishi Colt IV","1271","1987","1992"
+"1340","Mitsubishi Colt III","1271","1983","1987"
+"1341","Mitsubishi Colt II","1271","1978","1984"
+"1342","Mitsubishi Delica V","1274","2007",NULL
+"1343","Mitsubishi Delica IV","1274","1993","2006"
+"1344","Mitsubishi Delica III","1274","1986","1993"
+"1345","Mitsubishi Diamante II","1275","1996","2005"
+"1346","Mitsubishi Diamante I","1275","1991","1996"
+"1347","Mitsubishi Eclipse IV","1278","2006","2011"
+"1348","Mitsubishi Eclipse III","1278","1999","2006"
+"1349","Mitsubishi Eclipse II","1278","1995","1999"
+"1350","Mitsubishi Eclipse I","1278","1990","1995"
+"1351","Mitsubishi Eterna VII","1282","1992","1996"
+"1352","Mitsubishi Eterna VI","1282","1989","1992"
+"1353","Mitsubishi Galant IX","1284","2003","2012"
+"1354","Mitsubishi Galant VIII","1284","1996","2006"
+"1355","Mitsubishi Galant VII","1284","1992","1998"
+"1356","Mitsubishi Galant VI","1284","1987","1992"
+"1357","Mitsubishi Galant V","1284","1983","1989"
+"1358","Mitsubishi Galant IV","1284","1980","1984"
+"1359","Mitsubishi Galant III","1284","1976","1980"
+"1360","Mitsubishi L200 IV","1290","2006",NULL
+"1361","Mitsubishi L200 III","1290","1996","2006"
+"1362","Mitsubishi Lancer Evolution X","1292","2007",NULL
+"1363","Mitsubishi Lancer Evolution IX","1292","2006","2007"
+"1364","Mitsubishi Lancer Evolution VIII","1292","2003","2006"
+"1365","Mitsubishi Lancer Evolution VII","1292","2001","2003"
+"1366","Mitsubishi Lancer Evolution V","1292","1998","1999"
+"1367","Mitsubishi Lancer Evolution VI","1292","1996","2001"
+"1368","Mitsubishi Lancer Evolution IV","1292","1996","1998"
+"1369","Mitsubishi Lancer Evolution III","1292","1995","1996"
+"1370","Mitsubishi Lancer Evolution II","1292","1994","1995"
+"1371","Mitsubishi Lancer Evolution I","1292","1992","1994"
+"1372","Mitsubishi Lancer X Рестайлинг (9е)","1293","2011",NULL
+"1373","Mitsubishi Lancer X (9е-поколение)","1293","2007","2010"
+"1374","Mitsubishi Lancer IX (8е-поколение)","1293","2000","2010"
+"1375","Mitsubishi Lancer VII","1293","1995","2000"
+"1376","Mitsubishi Lancer VI","1293","1991","2000"
+"1377","Mitsubishi Lancer V","1293","1988","1994"
+"1378","Mitsubishi Lancer IV","1293","1983","1992"
+"1379","Mitsubishi Lancer III","1293","1982","1983"
+"1380","Mitsubishi Lancer II","1293","1979","1987"
+"1381","Mitsubishi Lancer I","1293","1973","1981"
+"1382","Mitsubishi Minica VIII","1296","1999","2011"
+"1383","Mitsubishi Minica VII","1296","1993","1999"
+"1384","Mitsubishi Minica VI","1296","1989","1993"
+"1385","Mitsubishi Mirage V","1297","1995","2003"
+"1386","Mitsubishi Mirage IV","1297","1991","1995"
+"1387","Mitsubishi Mirage III","1297","1987","1992"
+"1388","Mitsubishi Montero IV","1298","2006",NULL
+"1389","Mitsubishi Montero III","1298","2000","2006"
+"1390","Mitsubishi Montero II","1298","1990","2000"
+"1391","Mitsubishi Montero I","1298","1982","1991"
+"1392","Mitsubishi Outlander III Рестайлинг","1300","2014",NULL
+"1393","Mitsubishi Outlander III","1300","2012",NULL
+"1394","Mitsubishi Outlander II","1300","2006","2012"
+"1395","Mitsubishi Outlander I","1300","2003","2008"
+"1396","Mitsubishi Pajero IV","1301","2006",NULL
+"1397","Mitsubishi Pajero III","1301","2000","2006"
+"1398","Mitsubishi Pajero II","1301","1990","2004"
+"1399","Mitsubishi Pajero I","1301","1982","1991"
+"1401","Mitsubishi Pajero Mini II","1304","1998","2012"
+"1402","Mitsubishi Pajero Mini I","1304","1994","1998"
+"1404","Mitsubishi Pajero Sport II","1306","2008",NULL
+"1405","Mitsubishi Pajero Sport I","1306","1998","2008"
+"1406","Mitsubishi RVR III","1310","2010",NULL
+"1407","Mitsubishi RVR II","1310","1997","2002"
+"1408","Mitsubishi RVR I","1310","1992","1997"
+"1409","Mitsubishi Sapporo II","1311","1987","1990"
+"1410","Mitsubishi Sapporo I","1311","1978","1984"
+"1412","Mitsubishi Space Runner II","1314","1999","2002"
+"1413","Mitsubishi Space Runner I","1314","1991","1999"
+"1414","Mitsubishi Space Wagon III","1316","1998","2004"
+"1415","Mitsubishi Space Wagon II","1316","1991","1998"
+"1416","Mitsubishi Space Wagon I","1316","1984","1991"
+"1417","Mitsubishi Toppo II","1318","2000","2004"
+"1418","Mitsubishi Toppo I","1318","1990","1999"
+"1419","Mitsuoka Galue III","1322","2005",NULL
+"1420","Mitsuoka Galue II","1322","1999","2004"
+"1421","Mitsuoka Galue I","1322","1998","2002"
+"1422","Mitsuoka Nouera II (6-02)","1328","2008",NULL
+"1423","Mitsuoka Nouera I","1328","2003","2008"
+"1424","Mitsuoka Ray II","1330","1999","2004"
+"1425","Mitsuoka Ray I","1330","1996","1999"
+"1426","Mitsuoka Ryoga II (B15)","1331","2001","2004"
+"1427","Mitsuoka Ryoga I (P11)","1331","1998","2001"
+"1428","Mitsuoka Viewt III (K13)","1332","2012",NULL
+"1429","Mitsuoka Viewt II (K12)","1332","2005","2012"
+"1430","Mitsuoka Viewt I (K11)","1332","1995","2003"
+"1431","Morgan Plus 8 II","1343","2012",NULL
+"1432","Morgan Plus 8 I","1343","1968","2000"
+"1434","Nissan 200SX II (S14)","1348","1993","2000"
+"1435","Nissan 200SX I (S13)","1348","1988","1993"
+"1436","Nissan 300ZX II (Z32)","1351","1990","1995"
+"1437","Nissan 300ZX I (Z31)","1351","1984","1990"
+"1439","Nissan AD III","1354","2006",NULL
+"1440","Nissan AD II","1354","1992","2006"
+"1441","Nissan AD I","1354","1990","1996"
+"1442","Nissan Almera III (G11)","1356","2012",NULL
+"1443","Nissan Almera II (N16)","1356","2000","2006"
+"1444","Nissan Almera I (N15)","1356","1995","2000"
+"1445","Nissan Altima V","1358","2012",NULL
+"1446","Nissan Altima IV","1358","2007","2012"
+"1447","Nissan Altima III","1358","2002","2006"
+"1448","Nissan Altima II","1358","1998","2002"
+"1449","Nissan Altima I","1358","1993","1997"
+"1450","Nissan Avenir II (W11)","1360","1998","2005"
+"1451","Nissan Avenir I (W10)","1360","1990","1998"
+"1452","Nissan Bluebird Sylphy II (G11)","1363","2005","2012"
+"1453","Nissan Bluebird Sylphy I (G10)","1363","2000","2005"
+"1454","Nissan Bluebird XI (U14)","1364","1996","2001"
+"1455","Nissan Bluebird X (U13)","1364","1991","1997"
+"1456","Nissan Bluebird IX (U12)","1364","1987","1991"
+"1457","Nissan Bluebird VIII (T12, T72)","1364","1985","1991"
+"1458","Nissan Bluebird VII (U11)","1364","1983","1990"
+"1459","Nissan Bluebird VI (910)","1364","1979","1986"
+"1460","Nissan Bluebird IV (610)","1364","1971","1976"
+"1461","Nissan Cedric X (Y34)","1365","1999","2004"
+"1462","Nissan Cedric IX (Y33)","1365","1995","1999"
+"1463","Nissan Cedric VIII (Y32)","1365","1991","1995"
+"1464","Nissan Cedric VII (Y31)","1365","1987","2009"
+"1465","Nissan Cedric VI (Y30)","1365","1983","1987"
+"1466","Nissan Cedric V (430)","1365","1979","1983"
+"1467","Nissan Cedric IV (330)","1365","1976","1979"
+"1468","Nissan Cefiro III (A33)","1366","1998","2003"
+"1469","Nissan Cefiro II (A32)","1366","1994","2000"
+"1470","Nissan Cefiro I (A31)","1366","1988","1994"
+"1471","Nissan Cherry IV (N12)","1367","1982","1986"
+"1472","Nissan Cherry III (N10)","1367","1978","1983"
+"1473","Nissan Cherry II (F10)","1367","1974","1978"
+"1474","Nissan Cherry I (E10)","1367","1970","1974"
+"1475","Nissan Cima V (Y51)","1368","2012",NULL
+"1476","Nissan Cima IV (F50)","1368","2001","2010"
+"1477","Nissan Cima III (Y33)","1368","1996","2001"
+"1478","Nissan Cube III (Z12)","1371","2008",NULL
+"1479","Nissan Cube II (Z11)","1371","2002","2008"
+"1480","Nissan Cube I (Z10)","1371","1998","2003"
+"1482","Nissan Elgrand II (E51)","1374","2002","2010"
+"1483","Nissan Elgrand I (E50)","1374","1997","2002"
+"1484","Nissan Fairlady Z VI (Z34)","1376","2008",NULL
+"1485","Nissan Fairlady Z V (Z33)","1376","2002","2008"
+"1486","Nissan Fairlady Z IV (Z32)","1376","1989","2000"
+"1487","Nissan Fairlady Z III (Z31)","1376","1983","1989"
+"1488","Nissan Fuga II","1378","2009",NULL
+"1489","Nissan Fuga I","1378","2004","2009"
+"1490","Nissan Gloria XI (Y34)","1379","1999","2004"
+"1491","Nissan Gloria X (Y33)","1379","1995","1999"
+"1492","Nissan Gloria IX (Y32)","1379","1991","1995"
+"1493","Nissan Gloria VIII (Y31)","1379","1987","1999"
+"1494","Nissan Gloria VI (430)","1379","1979","1983"
+"1495","Nissan Juke I Рестайлинг","1381","2014",NULL
+"1496","Nissan Juke I","1381","2010","2014"
+"1497","Nissan Langley III (N13)","1383","1986","1990"
+"1498","Nissan Langley II (N12)","1383","1982","1986"
+"1499","Nissan Laurel VIII (C35)","1385","1997","2002"
+"1500","Nissan Laurel VII (C34)","1385","1993","1997"
+"1501","Nissan Laurel VI (C33)","1385","1989","1993"
+"1502","Nissan Laurel V (C32)","1385","1984","1989"
+"1503","Nissan Laurel IV (C31)","1385","1981","1985"
+"1504","Nissan Laurel III (C230)","1385","1977","1983"
+"1505","Nissan Leopard IV (Y33)","1387","1996","2000"
+"1506","Nissan Leopard III (Y32)","1387","1992","1996"
+"1507","Nissan Leopard II (F31)","1387","1986","1992"
+"1508","Nissan March IV (K13)","1390","2010",NULL
+"1509","Nissan March III (K12)","1390","2003","2010"
+"1510","Nissan March II (K11)","1390","1992","2002"
+"1511","Nissan March I (K10)","1390","1982","1992"
+"1512","Nissan Maxima VII (A35)","1391","2008",NULL
+"1513","Nissan Maxima VI (A34)","1391","2003","2008"
+"1514","Nissan Maxima V (A33)","1391","2000","2008"
+"1515","Nissan Maxima IV (A32)","1391","1995","2000"
+"1516","Nissan Maxima III (J30)","1391","1988","1994"
+"1517","Nissan Maxima II (U11)","1391","1985","1988"
+"1518","Nissan Maxima I (L810)","1391","1981","1984"
+"1520","Nissan Moco II","1394","2006","2011"
+"1521","Nissan Moco I","1394","2001","2006"
+"1522","Nissan Murano II (Z51)","1395","2008",NULL
+"1523","Nissan Murano I (Z50)","1395","2002","2008"
+"1524","Nissan Navara (Frontier) III (D40) Рестайлинг","1396","2010",NULL
+"1525","Nissan Navara (Frontier) III (D40)","1396","2005","2010"
+"1526","Nissan Navara (Frontier) II (D22)","1396","1998","2007"
+"1527","Nissan Navara (Frontier) I (D21)","1396","1986","1998"
+"1528","Nissan Note II","1397","2012",NULL
+"1529","Nissan Note I Рестайлинг","1397","2009","2014"
+"1530","Nissan Note I","1397","2005","2009"
+"1532","Nissan Otti (Dayz) II (H92)","1401","2006","2013"
+"1533","Nissan Otti (Dayz) III","1401","2006","2013"
+"1534","Nissan Otti (Dayz) I (H91)","1401","2005","2006"
+"1535","Nissan Pathfinder IV","1403","2012",NULL
+"1536","Nissan Pathfinder III Рестайлинг","1403","2010",NULL
+"1537","Nissan Pathfinder III","1403","2004","2010"
+"1538","Nissan Pathfinder II","1403","1996","2004"
+"1539","Nissan Pathfinder I","1403","1986","1997"
+"1540","Nissan Patrol VI (Y62)","1404","2010",NULL
+"1541","Nissan Patrol V (Y61)","1404","1997","2010"
+"1542","Nissan Patrol IV (Y60)","1404","1988","1997"
+"1543","Nissan Patrol III (K160, K260)","1404","1979","1995"
+"1546","Oldsmobile Aurora II","1410","2001","2003"
+"1547","Oldsmobile Aurora I","1410","1994","1999"
+"1548","Oldsmobile Bravada III","1411","2001","2004"
+"1549","Oldsmobile Bravada II","1411","1995","2001"
+"1550","Oldsmobile Bravada I","1411","1990","1995"
+"1554","Oldsmobile Eighty-Eight X","1416","1992","1999"
+"1555","Oldsmobile Eighty-Eight IX","1416","1986","1991"
+"1556","Oldsmobile Eighty-Eight VIII","1416","1977","1985"
+"1557","Oldsmobile Ninety-Eight XI","1418","1991","1996"
+"1558","Oldsmobile Ninety-Eight X","1418","1985","1990"
+"1559","Oldsmobile Ninety-Eight IX","1418","1977","1984"
+"1560","Oldsmobile Silhouette II","1420","1996","2004"
+"1561","Oldsmobile Silhouette I","1420","1989","1996"
+"1562","Opel Admiral B","1422","1969","1978"
+"1563","Opel Agila B","1423","2008",NULL
+"1564","Opel Agila A","1423","2000","2007"
+"1565","Opel Antara I Рестайлинг","1425","2010",NULL
+"1566","Opel Antara I","1425","2006","2011"
+"1567","Opel Ascona C","1426","1981","1988"
+"1568","Opel Ascona B","1426","1975","1981"
+"1569","Opel Ascona A","1426","1970","1975"
+"1570","Opel Astra J Рестайлинг","1427","2011",NULL
+"1571","Opel Astra J","1427","2009","2012"
+"1572","Opel Astra H Рестайлинг","1427","2005",NULL
+"1573","Opel Astra H","1427","2004","2007"
+"1574","Opel Astra G","1427","1998","2005"
+"1575","Opel Astra F","1427","1991","2005"
+"1577","Opel Combo D","1431","2012",NULL
+"1578","Opel Combo C","1431","2001","2011"
+"1579","Opel Combo B","1431","1993","2000"
+"1580","Opel Commodore C","1432","1978","1982"
+"1581","Opel Commodore B","1432","1972","1978"
+"1582","Opel Corsa D Рестайлинг II","1433","2011",NULL
+"1583","Opel Corsa D Ресталинг I","1433","2010","2011"
+"1584","Opel Corsa D","1433","2006","2010"
+"1585","Opel Corsa C","1433","2000","2006"
+"1586","Opel Corsa B","1433","1993","2000"
+"1587","Opel Corsa A","1433","1982","1993"
+"1588","Opel Diplomat B","1434","1969","1978"
+"1589","Opel Frontera B","1435","1998","2004"
+"1590","Opel Frontera A","1435","1992","1998"
+"1591","Opel Insignia I Рестайлинг","1437","2013",NULL
+"1592","Opel Insignia I","1437","2008","2013"
+"1593","Opel Kadett E","1438","1984","1994"
+"1594","Opel Kadett D","1438","1979","1984"
+"1595","Opel Kadett C","1438","1973","1979"
+"1596","Opel Manta B","1439","1975","1988"
+"1597","Opel Manta A","1439","1970","1975"
+"1598","Opel Meriva B Рестайлинг","1440","2013",NULL
+"1599","Opel Meriva B","1440","2010","2013"
+"1600","Opel Meriva A","1440","2002","2010"
+"1601","Opel Monterey A рестайлинг","1442","1998","1999"
+"1602","Opel Monterey A","1442","1991","1998"
+"1603","Opel Omega B","1444","1994","2004"
+"1604","Opel Omega A","1444","1984","1994"
+"1605","Opel Rekord E","1445","1977","1986"
+"1606","Opel Rekord D","1445","1972","1977"
+"1607","Opel Senator B","1446","1987","1993"
+"1608","Opel Senator A","1446","1978","1987"
+"1609","Opel Tigra B","1450","2004","2009"
+"1610","Opel Tigra A","1450","1994","2001"
+"1611","Opel Vectra C","1451","2002","2009"
+"1612","Opel Vectra B","1451","1995","2003"
+"1613","Opel Vectra A","1451","1988","1995"
+"1615","Opel Zafira C","1453","2012",NULL
+"1616","Opel Zafira B","1453","2005",NULL
+"1617","Opel Zafira A","1453","1999","2006"
+"1621","Peugeot 106 I Рестайлинг","1469","1996","2004"
+"1622","Peugeot 106 I","1469","1991","1996"
+"1629","Peugeot 3008 I Рестайлинг","1477","2013",NULL
+"1630","Peugeot 3008 I","1477","2009",NULL
+"1635","Peugeot 308 II","1483","2013",NULL
+"1636","Peugeot 308 I Рестайлинг","1483","2011",NULL
+"1637","Peugeot 308 I","1483","2008","2011"
+"1645","Peugeot Partner II Рестайлинг","1501","2011",NULL
+"1646","Peugeot Partner II","1501","2008","2011"
+"1647","Peugeot Partner I","1501","1997","2008"
+"1648","Peugeot RCZ I Рестайлинг","1502","2012",NULL
+"1649","Peugeot RCZ I","1502","2010","2012"
+"1653","Plymouth Voyager III","1512","1996","2001"
+"1654","Plymouth Voyager II","1512","1991","1995"
+"1655","Plymouth Voyager I","1512","1984","1990"
+"1657","Pontiac Bonneville X","1515","2000","2005"
+"1658","Pontiac Bonneville IX","1515","1991","2004"
+"1659","Pontiac Bonneville VIII","1515","1987","1991"
+"1660","Pontiac Firebird IV","1517","1993","2002"
+"1661","Pontiac Firebird III","1517","1982","1992"
+"1662","Pontiac Firebird II","1517","1970","1981"
+"1663","Pontiac Firebird I","1517","1967","1969"
+"1667","Pontiac Grand AM V","1522","1998","2005"
+"1668","Pontiac Grand AM IV","1522","1992","1998"
+"1669","Pontiac Grand AM III","1522","1985","1991"
+"1670","Pontiac Grand Prix VII","1523","2004","2008"
+"1671","Pontiac Grand Prix VI","1523","1996","2003"
+"1672","Pontiac Grand Prix V","1523","1988","1996"
+"1673","Pontiac LeMans I Рестайлинг","1525","1991","1993"
+"1674","Pontiac LeMans I","1525","1988","1991"
+"1675","Pontiac Montana II SV6","1526","2005","2009"
+"1676","Pontiac Montana I","1526","1997","2005"
+"1677","Pontiac Phoenix II","1528","1979","1984"
+"1678","Pontiac Phoenix I","1528","1977","1979"
+"1680","Pontiac Sunbird III","1530","1988","1994"
+"1681","Pontiac Sunbird II","1530","1981","1988"
+"1682","Pontiac Sunbird I","1530","1975","1980"
+"1684","Pontiac Trans Sport II","1534","1997","1999"
+"1685","Pontiac Trans Sport I","1534","1989","1999"
+"1686","Pontiac Vibe II","1535","2008","2009"
+"1687","Pontiac Vibe I Рестайлинг","1535","2005","2008"
+"1688","Pontiac Vibe I","1535","2002","2004"
+"1689","Porsche 911 VII (991)","1536","2011",NULL
+"1690","Porsche 911 VI (997)","1536","2005","2012"
+"1691","Porsche 911 V (996)","1536","1997","2005"
+"1692","Porsche 911 IV (993)","1536","1993","1997"
+"1693","Porsche 911 III (964)","1536","1988","1994"
+"1694","Porsche 911 II (930)","1536","1972","1990"
+"1695","Porsche 911 I (901, 911)","1536","1963","1979"
+"1698","Porsche Boxster III (981)","1544","2012",NULL
+"1699","Porsche Boxster II (987)","1544","2004","2011"
+"1700","Porsche Boxster I (986)","1544","1996","2004"
+"1701","Porsche Cayenne II (958)","1546","2010","2014"
+"1702","Porsche Cayenne I Рестайлинг (957)","1546","2007","2010"
+"1703","Porsche Cayenne I (955)","1546","2002","2007"
+"1704","Porsche Cayman II (981)","1547","2012",NULL
+"1705","Porsche Cayman I (987)","1547","2005","2012"
+"1706","Porsche Panamera I Рестайлинг","1549","2013",NULL
+"1707","Porsche Panamera I","1549","2009","2013"
+"1708","Proton Saga II","1559","2008",NULL
+"1709","Proton Saga I","1559","1985","2008"
+"1710","Proton Satria II","1560","2006",NULL
+"1711","Proton Satria I (300 Series)","1560","1996","2005"
+"1713","PUCH G-modell W461","1563","1992","2000"
+"1714","PUCH G-modell W463","1563","1989","2000"
+"1715","PUCH G-modell W460","1563","1979","1992"
+"1716","PUCH Pinzgauer 716","1564","1987",NULL
+"1717","PUCH Pinzgauer 718","1564","1987",NULL
+"1718","PUCH Pinzgauer 710","1564","1974","1987"
+"1719","PUCH Pinzgauer 712","1564","1971","1985"
+"1724","Renault 19 II (Europa)","1577","1996","2002"
+"1725","Renault 19 II","1577","1991","1997"
+"1726","Renault 19 I","1577","1988","1992"
+"1729","Renault 5 II","1583","1984","2002"
+"1730","Renault 5 I","1583","1972","1985"
+"1731","Renault Clio IV","1588","2012",NULL
+"1732","Renault Clio III","1588","2005",NULL
+"1733","Renault Clio II","1588","1998",NULL
+"1734","Renault Clio I","1588","1990","1998"
+"1735","Renault Espace IV","1590","2002",NULL
+"1736","Renault Espace III","1590","1996","2003"
+"1737","Renault Espace II","1590","1991","1996"
+"1738","Renault Espace I","1590","1984","1992"
+"1739","Renault Fluence I Рестайлинг","1592","2013",NULL
+"1740","Renault Fluence I","1592","2009",NULL
+"1741","Renault Kangoo II Рестайлинг","1594","2013",NULL
+"1742","Renault Kangoo II","1594","2008","2013"
+"1743","Renault Kangoo I","1594","1998","2008"
+"1744","Renault Koleos I Рестайлинг 2","1595","2013",NULL
+"1745","Renault Koleos I Рестайлинг","1595","2011","2013"
+"1746","Renault Koleos I","1595","2008","2011"
+"1747","Renault Laguna III","1596","2007",NULL
+"1748","Renault Laguna II","1596","2001","2008"
+"1749","Renault Laguna I","1596","1993","2001"
+"1750","Renault Logan II","1598","2014",NULL
+"1751","Renault Logan I Рестайлинг","1598","2009","2014"
+"1752","Renault Logan I","1598","2004","2009"
+"1753","Renault Megane III Рестайлинг","1599","2013",NULL
+"1754","Renault Megane III","1599","2008","2013"
+"1755","Renault Megane II","1599","2002","2008"
+"1756","Renault Megane I","1599","1996","2003"
+"1757","Renault Modus I Рестайлинг","1600","2008","2012"
+"1758","Renault Modus I","1600","2004","2008"
+"1759","Renault Rodeo II","1601","1981","1987"
+"1760","Renault Rodeo I","1601","1971","1981"
+"1761","Renault Safrane II","1602","2008","2010"
+"1762","Renault Safrane I Рестайлинг","1602","1996","2000"
+"1763","Renault Safrane I","1602","1992","1996"
+"1764","Renault Scenic III Рестайлинг","1604","2012",NULL
+"1765","Renault Scenic III","1604","2009","2012"
+"1766","Renault Scenic II","1604","2003","2009"
+"1767","Renault Scenic I","1604","1996","2003"
+"1768","Renault Symbol ll","1606","2008","2012"
+"1769","Renault Symbol I","1606","1999","2008"
+"1770","Renault Twingo II Рестайлинг","1607","2012",NULL
+"1771","Renault Twingo II","1607","2007","2012"
+"1772","Renault Twingo I","1607","1993","2008"
+"1773","Renault Samsung SM3 II","1612","2009",NULL
+"1774","Renault Samsung SM3 I Рестайлинг","1612","2006","2009"
+"1775","Renault Samsung SM3 I","1612","2002","2006"
+"1776","Renault Samsung SM5 II","1613","2005","2010"
+"1777","Renault Samsung SM5 I","1613","1998","2005"
+"1779","Rolls-Royce Silver Spur Mark IV","1620","1994","1998"
+"1780","Rolls-Royce Silver Spur Mark III","1620","1993","1994"
+"1781","Rolls-Royce Silver Spur Mark II","1620","1989","1993"
+"1782","Rolls-Royce Silver Spur Mark I","1620","1980","1989"
+"1784","Rover 200 III (R3)","1624","1995","2000"
+"1785","Rover 200 II (R8)","1624","1989","2000"
+"1786","Rover 200 I (SD3)","1624","1985","1989"
+"1788","Rover 400 II (HH-R)","1626","1995","2000"
+"1789","Rover 400 I (R8)","1626","1990","1998"
+"1795","Saab 9-3 II","1636","2002","2012"
+"1796","Saab 9-3 I","1636","1998","2003"
+"1797","Saab 9-5 II","1638","2010","2012"
+"1798","Saab 9-5 I","1638","1997","2010"
+"1799","Saab 900 II","1641","1993","1998"
+"1800","Saab 900 I","1641","1978","1994"
+"1806","Saturn SC II","1655","1997","2002"
+"1807","Saturn SC I","1655","1991","1996"
+"1808","Saturn SL II","1657","1996","2002"
+"1809","Saturn SL I","1657","1991","1995"
+"1810","Saturn SW II","1658","1996","2001"
+"1811","Saturn SW I","1658","1993","1995"
+"1812","Saturn VUE II","1659","2007","2010"
+"1813","Saturn VUE I","1659","2001","2007"
+"1814","Scion tC II","1662","2010",NULL
+"1815","Scion tC I","1662","2004","2010"
+"1816","Scion xB II Рестайлинг","1664","2010",NULL
+"1817","Scion xB II","1664","2007","2010"
+"1818","Scion xB I","1664","2003","2007"
+"1819","SEAT Alhambra II","1667","2010",NULL
+"1820","SEAT Alhambra I","1667","1996","2010"
+"1822","SEAT Cordoba II","1670","2003","2009"
+"1823","SEAT Cordoba I Рестайлинг","1670","1999","2003"
+"1824","SEAT Cordoba I","1670","1993","1999"
+"1826","SEAT Ibiza IV Рестайлинг","1673","2012",NULL
+"1827","SEAT Ibiza IV","1673","2008","2012"
+"1828","SEAT Ibiza III","1673","2001","2008"
+"1829","SEAT Ibiza II Рестайлинг","1673","1999","2001"
+"1830","SEAT Ibiza II","1673","1993","1999"
+"1831","SEAT Ibiza I","1673","1984","1993"
+"1832","SEAT Leon III","1674","2013",NULL
+"1833","SEAT Leon II","1674","2005","2012"
+"1834","SEAT Leon I","1674","1999","2005"
+"1835","SEAT Toledo IV","1678","2012",NULL
+"1836","SEAT Toledo III","1678","2006","2009"
+"1837","SEAT Toledo II","1678","1998","2006"
+"1838","SEAT Toledo I","1678","1991","1999"
+"1839","Skoda 100 Series II","1681","1976","1991"
+"1840","Skoda 100 Series I","1681","1969","1984"
+"1842","Skoda Fabia II","1683","2007",NULL
+"1843","Skoda Fabia I","1683","1999","2007"
+"1845","Skoda Felicia I Рестайлинг","1685","1998","2001"
+"1846","Skoda Felicia I","1685","1994","2001"
+"1847","Skoda Octavia III","1686","2013",NULL
+"1848","Skoda Octavia II Рестайлинг","1686","2008","2013"
+"1849","Skoda Octavia II","1686","2004","2009"
+"1850","Skoda Octavia I","1686","1996","2011"
+"1852","Skoda Superb II Рестайлинг","1689","2013",NULL
+"1853","Skoda Superb II","1689","2008","2013"
+"1854","Skoda Superb I","1689","2002","2008"
+"1855","Skoda Yeti I Рестайлинг","1690","2013",NULL
+"1856","Skoda Yeti I","1690","2009","2013"
+"1857","Smart Fortwo II","1692","2007","2014"
+"1858","Smart Fortwo I","1692","1998","2007"
+"1861","Ssang Yong Actyon II Рестайлинг","1699","2013",NULL
+"1862","Ssang Yong Actyon II","1699","2010","2013"
+"1863","Ssang Yong Actyon I","1699","2006","2010"
+"1864","Ssang Yong Actyon Sports II","1700","2012",NULL
+"1865","Ssang Yong Actyon Sports I","1700","2006","2012"
+"1866","Ssang Yong Chairman II (W)","1701","2008",NULL
+"1867","Ssang Yong Chairman I (H)","1701","1997",NULL
+"1868","Ssang Yong Korando II","1704","1996","2006"
+"1869","Ssang Yong Korando I","1704","1988","1996"
+"1870","Ssang Yong Kyron I Рестайлинг","1705","2007",NULL
+"1871","Ssang Yong Kyron I","1705","2005","2007"
+"1872","Ssang Yong Musso I Рестайлинг","1706","1999","2006"
+"1873","Ssang Yong Musso I","1706","1993","1998"
+"1874","Ssang Yong Rexton III","1707","2012",NULL
+"1875","Ssang Yong Rexton II","1707","2007","2012"
+"1876","Ssang Yong Rexton I","1707","2002","2008"
+"1877","Ssang Yong Rodius I Рестайлинг","1708","2007","2013"
+"1878","Ssang Yong Rodius I","1708","2004","2007"
+"1879","Subaru Domingo II","1714","1994","1998"
+"1880","Subaru Domingo I","1714","1991","1994"
+"1881","Subaru Forester IV","1716","2012",NULL
+"1882","Subaru Forester III","1716","2007","2013"
+"1883","Subaru Forester II Рестайлинг","1716","2005","2008"
+"1884","Subaru Forester II","1716","2002","2005"
+"1885","Subaru Forester I","1716","1997","2002"
+"1886","Subaru Justy IV","1718","2007","2011"
+"1887","Subaru Justy III","1718","2003","2007"
+"1888","Subaru Justy II","1718","1995","2003"
+"1889","Subaru Justy I Рестайлинг","1718","1987","1995"
+"1890","Subaru Justy I","1718","1984","1991"
+"1891","Subaru Legacy VI","1719","2014",NULL
+"1892","Subaru Legacy V","1719","2009",NULL
+"1893","Subaru Legacy IV","1719","2003","2009"
+"1894","Subaru Legacy III","1719","1998","2003"
+"1895","Subaru Legacy II","1719","1994","1999"
+"1896","Subaru Legacy I","1719","1989","1994"
+"1897","Subaru Leone III","1720","1984","1994"
+"1898","Subaru Leone II","1720","1979","1984"
+"1899","Subaru Outback IV","1723","2009",NULL
+"1900","Subaru Outback III","1723","2003","2009"
+"1901","Subaru Outback II","1723","1999","2003"
+"1902","Subaru Outback I","1723","1994","1999"
+"1903","Subaru Pleo II","1724","2010",NULL
+"1904","Subaru Pleo I","1724","1998","2010"
+"1905","Subaru Tribeca I Рестайлинг","1732","2007","2014"
+"1906","Subaru Tribeca I","1732","2004","2007"
+"1908","Suzuki Alto VII (HA25)","1737","2009",NULL
+"1909","Suzuki Alto VI (HA24)","1737","2004","2009"
+"1910","Suzuki Alto V","1737","1998","2012"
+"1911","Suzuki Alto IV","1737","1994","1998"
+"1912","Suzuki Alto III","1737","1988","1994"
+"1913","Suzuki Alto II","1737","1984","1993"
+"1914","Suzuki Alto I","1737","1979","1984"
+"1916","Suzuki Cervo V","1740","2006","2009"
+"1917","Suzuki Cervo I","1740","1977","1982"
+"1918","Suzuki Escudo III","1742","2005",NULL
+"1919","Suzuki Escudo II","1742","1997","2005"
+"1920","Suzuki Escudo I","1742","1988","1998"
+"1922","Suzuki Grand Vitara III Рестайлинг","1745","2012","2014"
+"1923","Suzuki Grand Vitara III","1745","2005","2012"
+"1924","Suzuki Grand Vitara II","1745","1997","2006"
+"1925","Grand Vitara I","1745","1988","2006"
+"1927","Suzuki Jimny III Рестайлинг 2","1747","2012",NULL
+"1928","Suzuki Jimny III Рестайлинг 1","1747","2005","2012"
+"1929","Suzuki Jimny III","1747","1998","2005"
+"1930","Suzuki Jimny II (Samurai)","1747","1981","1998"
+"1931","Suzuki Landy II","1750","2010",NULL
+"1932","Suzuki Landy I","1750","2007","2010"
+"1933","Suzuki Liana I Рестайлинг","1751","2004","2008"
+"1934","Suzuki Liana I","1751","2001","2006"
+"1935","Suzuki MR Wagon III","1752","2011",NULL
+"1936","Suzuki MR Wagon II","1752","2005","2011"
+"1937","Suzuki MR Wagon I","1752","2001","2005"
+"1938","Suzuki Solio II","1755","2011",NULL
+"1939","Suzuki Solio I","1755","2005","2010"
+"1940","Suzuki Swift V","1758","2011",NULL
+"1941","Suzuki Swift IV","1758","2004","2011"
+"1942","Suzuki Swift III","1758","2000","2003"
+"1943","Suzuki Swift II","1758","1989","2000"
+"1944","Suzuki Swift I","1758","1983","1989"
+"1945","Suzuki SX4 II (S-Cross)","1759","2013",NULL
+"1946","Suzuki SX4 I (Classic)","1759","2006",NULL
+"1947","Suzuki Wagon R IV","1761","2008","2012"
+"1948","Suzuki Wagon R III","1761","2003","2008"
+"1949","Suzuki Wagon R II","1761","1998","2003"
+"1950","Suzuki Wagon R I","1761","1993","1998"
+"1951","Suzuki Wagon R+ II","1762","2000","2008"
+"1952","Suzuki Wagon R+ I","1762","1997","2000"
+"1955","TATA Indica II Vista","1773","2008",NULL
+"1956","TATA Indica I","1773","1998","2007"
+"1957","TATA Indigo II Manza","1774","2009",NULL
+"1958","TATA Indigo I","1774","2002",NULL
+"1959","TATA Safari II Storme","1776","2012",NULL
+"1960","TATA Safari I","1776","1997",NULL
+"1963","Toyota 4runner V Рестайлинг","1791","2013",NULL
+"1964","Toyota 4runner V","1791","2009","2013"
+"1965","Toyota 4runner IV","1791","2003","2009"
+"1966","Toyota 4runner III","1791","1995","2003"
+"1967","Toyota 4runner II","1791","1987","1995"
+"1968","Toyota Allion II","1793","2007",NULL
+"1969","Toyota Allion I","1793","2001","2007"
+"1970","Toyota Alphard II","1794","2008",NULL
+"1971","Toyota Alphard I Рестайлинг","1794","2005","2008"
+"1972","Toyota Alphard I","1794","2002","2005"
+"1974","Toyota Aristo II","1796","1997","2004"
+"1975","Toyota Aristo I","1796","1991","1996"
+"1976","Toyota Auris II","1798","2012",NULL
+"1977","Toyota Auris I","1798","2006","2012"
+"1978","Toyota Avalon IV","1799","2012",NULL
+"1979","Toyota Avalon III","1799","2005","2011"
+"1980","Toyota Avalon II","1799","2000","2005"
+"1981","Toyota Avalon I","1799","1995","2000"
+"1982","Toyota Avensis III","1800","2009",NULL
+"1983","Toyota Avensis II","1800","2001","2008"
+"1984","Toyota Avensis I","1800","1997","2003"
+"1985","Toyota Aygo II","1802","2014",NULL
+"1986","Toyota Aygo I","1802","2005","2014"
+"1987","Toyota bB II","1803","2005",NULL
+"1988","Toyota bB I","1803","2000","2005"
+"1990","Toyota Caldina III","1808","2002","2007"
+"1991","Toyota Caldina II","1808","1997","2002"
+"1992","Toyota Caldina I","1808","1992","1997"
+"1993","Toyota Camry VII","1810","2011","2014"
+"1994","Toyota Camry VI","1810","2006","2011"
+"1995","Toyota Camry V","1810","2002","2008"
+"1996","Toyota Camry IV","1810","1996","2004"
+"1997","Toyota Camry III","1810","1990","1998"
+"1998","Toyota Camry II","1810","1986","1991"
+"1999","Toyota Camry I","1810","1983","1988"
+"2000","Toyota Carina ED III (T200)","1811","1993","1998"
+"2001","Toyota Carina ED II (T180)","1811","1989","1993"
+"2002","Toyota Carina ED I (T160)","1811","1985","1989"
+"2003","Toyota Carina VII (T210)","1812","1996","2001"
+"2004","Toyota Carina VI (T190)","1812","1992","1998"
+"2005","Toyota Carina V (T170)","1812","1987","1993"
+"2006","Toyota Carina IV (T150)","1812","1983","1988"
+"2007","Toyota Carina III (A60)","1812","1982","1987"
+"2008","Toyota Carina II (A40, A50)","1812","1978","1983"
+"2009","Toyota Carina I (A10)","1812","1973","1978"
+"2011","Toyota Celica VII (T230)","1814","1999","2006"
+"2012","Toyota Celica VI (T200)","1814","1993","1999"
+"2013","Toyota Celica V (T180)","1814","1989","1994"
+"2014","Toyota Celica IV (T160)","1814","1985","1990"
+"2015","Toyota Celica III (A60)","1814","1982","1986"
+"2016","Toyota Celica II (A40, A50)","1814","1977","1985"
+"2017","Toyota Celica I (A20/35)","1814","1973","1978"
+"2018","Toyota Celsior III (F30)","1815","2000","2006"
+"2019","Toyota Celsior II (F20)","1815","1994","2000"
+"2020","Toyota Celsior I (F10)","1815","1989","1994"
+"2021","Toyota Century II (G50)","1816","1997",NULL
+"2022","Toyota Century I (G40)","1816","1982","1997"
+"2023","Toyota Chaser VI (X100)","1817","1996","2001"
+"2024","Toyota Chaser V (X90)","1817","1992","1996"
+"2025","Toyota Chaser IV (X80)","1817","1988","1992"
+"2026","Toyota Chaser III (X70)","1817","1984","1988"
+"2027","Toyota Chaser I","1817","1977","1980"
+"2028","Toyota Corolla XI (E160, E170)","1818","2013",NULL
+"2029","Toyota Corolla X (E140, E150)","1818","2006","2013"
+"2030","Toyota Corolla IX (E120, E130)","1818","2000","2008"
+"2031","Toyota Corolla VIII (E110)","1818","1995","2002"
+"2032","Toyota Corolla VII (E100)","1818","1991","1999"
+"2033","Toyota Corolla VI (E90)","1818","1987","1993"
+"2034","Toyota Corolla V (E80)","1818","1983","1988"
+"2035","Toyota Corolla IV (E70)","1818","1979","1987"
+"2036","Toyota Corolla III (E30, E40, E50, E60)","1818","1972","1980"
+"2037","Toyota Corolla Verso (Spacio) III","1820","2001","2008"
+"2038","Toyota Corolla Verso (Spacio) II","1820","2001","2007"
+"2039","Toyota Corolla Verso (Spacio) I","1820","1997","2001"
+"2040","Toyota Corona XI (T210)","1821","1996","2001"
+"2041","Toyota Corona X (T190)","1821","1992","1998"
+"2042","Toyota Corona IX (T170)","1821","1987","1993"
+"2043","Toyota Corona VII (T140)","1821","1982","1988"
+"2044","Toyota Corona VI (T130)","1821","1979","1981"
+"2045","Toyota Corona V (T100, T110, T120)","1821","1973","1979"
+"2046","Toyota Corsa V (L50)","1822","1994","1999"
+"2047","Toyota Corsa IV (L40)","1822","1990","1994"
+"2048","Toyota Cressida IV (X80)","1823","1988","1996"
+"2049","Toyota Cressida II (X50, X60)","1823","1980","1985"
+"2050","Toyota Cressida I (X30, X40)","1823","1977","1981"
+"2051","Toyota Cresta V (X100)","1824","1996","2001"
+"2052","Toyota Cresta IV (X90)","1824","1992","1996"
+"2053","Toyota Cresta III (X80)","1824","1988","1992"
+"2054","Toyota Cresta II (X70)","1824","1984","1988"
+"2055","Toyota Cresta I (X60)","1824","1980","1984"
+"2056","Toyota Crown Majesta VI (S210)","1825","2013",NULL
+"2057","Toyota Crown Majesta V (S200)","1825","2009","2013"
+"2058","Toyota Crown Majesta IV (S180)","1825","2004","2009"
+"2059","Toyota Crown Majesta III (S170)","1825","1999","2004"
+"2060","Toyota Crown Majesta II (S150)","1825","1995","1999"
+"2061","Toyota Crown Majesta I (S140)","1825","1991","1995"
+"2062","Toyota Crown XIV (S210)","1826","2012",NULL
+"2063","Toyota Crown XIII (S200)","1826","2008","2012"
+"2064","Toyota Crown XII (S180)","1826","1999","2008"
+"2065","Toyota Crown XI (S170)","1826","1999","2007"
+"2066","Toyota Crown X (S150)","1826","1995",NULL
+"2067","Toyota Crown IX (S140)","1826","1991","1995"
+"2068","Toyota Crown VIII (S130)","1826","1987","1999"
+"2069","Toyota Crown VII (S120)","1826","1983","1987"
+"2070","Toyota Crown VI (S110)","1826","1980","1983"
+"2071","Toyota Cynos II (L52, L54)","1828","1995","1999"
+"2072","Toyota Cynos I (L44)","1828","1991","1995"
+"2074","Toyota Estima III","1831","2006",NULL
+"2075","Toyota Estima II","1831","2000","2006"
+"2076","Toyota Estima I","1831","1990","2000"
+"2078","Toyota Harrier II (XU30)","1838","2003","2013"
+"2079","Toyota Harrier I (XU10)","1838","1997","2002"
+"2081","Toyota Highlander II (U40)","1840","2007","2013"
+"2082","Toyota Highlander I (U20)","1840","2001","2007"
+"2083","Toyota Hilux Surf IV","1841","2002","2009"
+"2084","Toyota Hilux Surf III","1841","1995","2002"
+"2085","Toyota Hilux Surf II","1841","1989","1995"
+"2086","Toyota Hilux Surf I","1841","1984","1989"
+"2087","Toyota Hilux VII","1842","2006",NULL
+"2088","Toyota Hilux VI","1842","1997","2005"
+"2089","Toyota Hilux V","1842","1988","2004"
+"2090","Toyota Ipsum II (M20)","1844","2001","2009"
+"2091","Toyota Ipsum I (M10)","1844","1996","2001"
+"2092","Toyota ISis I Рестайлинг","1846","2009",NULL
+"2093","Toyota ISis I","1846","2004","2009"
+"2094","Toyota Ist II","1847","2006",NULL
+"2095","Toyota Ist I","1847","2001","2006"
+"2096","Toyota Kluger II (XU40)","1848","2007",NULL
+"2097","Toyota Kluger I (XU20)","1848","2000","2007"
+"2098","Toyota Land Cruiser 200 Series","1849","2007",NULL
+"2099","Toyota Land Cruiser 70 Series Рестайлинг","1849","2007",NULL
+"2100","Toyota Land Cruiser 100 Series","1849","1998","2007"
+"2101","Toyota Land Cruiser 80 Series","1849","1989","2008"
+"2102","Toyota Land Cruiser 70 Series","1849","1984","2007"
+"2103","Toyota Land Cruiser 60 Series","1849","1980","1990"
+"2104","Toyota Land Cruiser 40 Series","1849","1960","1984"
+"2105","Toyota Land Cruiser Prado 150 Series","1850","2009",NULL
+"2106","Toyota Land Cruiser Prado 120 Series","1850","2002","2009"
+"2107","Toyota Land Cruiser Prado 90 Series","1850","1996","2002"
+"2108","Toyota Land Cruiser Prado 70 Series","1850","1987","1996"
+"2117","Vauxhall Agila B","1870","2008",NULL
+"2118","Vauxhall Agila A","1870","2000","2007"
+"2119","Vauxhall Astra J","1871","2009",NULL
+"2120","Vauxhall Astra H","1871","2004","2010"
+"2121","Vauxhall Astra G","1871","1998","2005"
+"2122","Vauxhall Astra F","1871","1991","2002"
+"2123","Vauxhall Astra E","1871","1984","1993"
+"2124","Vauxhall Astra D","1871","1979","1984"
+"2126","Vauxhall Cavalier Mark III","1874","1988","1995"
+"2127","Vauxhall Cavalier Mark II","1874","1981","1988"
+"2128","Vauxhall Cavalier Mark I","1874","1975","1988"
+"2130","Vauxhall Combo D","1876","2012",NULL
+"2131","Vauxhall Combo C","1876","2001","2011"
+"2132","Vauxhall Corsa C","1877","2000","2006"
+"2133","Vauxhall Corsa B","1877","1993","2000"
+"2134","Vauxhall Frontera B","1878","1998","2004"
+"2135","Vauxhall Frontera A","1878","1992","1998"
+"2139","Vauxhall Tigra B","1885","2004","2009"
+"2140","Vauxhall Tigra A","1885","1994","2001"
+"2141","Vauxhall Vectra C","1886","2002","2009"
+"2142","Vauxhall Vectra B","1886","1995","2003"
+"2143","Vauxhall Victor FE","1889","1972","1978"
+"2144","Vauxhall Victor FD","1889","1967","1972"
+"2145","Vauxhall Viva HC","1890","1970","1979"
+"2146","Vauxhall Viva HB","1890","1965","1971"
+"2147","Vauxhall Viva HA","1890","1963","1966"
+"2148","Vauxhall Zafira A","1892","1999","2005"
+"2150","Volkswagen Beetle II (A5)","1900","2011",NULL
+"2151","Volkswagen Beetle I (A4)","1900","1998","2010"
+"2153","Volkswagen Caddy III Рестайлинг","1902","2010",NULL
+"2154","Volkswagen Caddy III","1902","2004","2010"
+"2155","Volkswagen Derby II","1904","1981","1984"
+"2156","Volkswagen Derby I","1904","1977","1981"
+"2157","Volkswagen Eos I Рестайлинг","1905","2010",NULL
+"2158","Volkswagen Eos I","1905","2006","2011"
+"2159","Volkswagen Golf VII","1908","2012",NULL
+"2160","Volkswagen Golf VI","1908","2008","2013"
+"2161","Volkswagen Golf V","1908","2003","2009"
+"2162","Volkswagen Golf IV","1908","1997","2006"
+"2163","Volkswagen Golf III","1908","1991","2000"
+"2164","Volkswagen Golf II","1908","1983","1992"
+"2165","Volkswagen Golf I","1908","1974","1993"
+"2166","Volkswagen Golf Plus II","1909","2009","2014"
+"2167","Volkswagen Golf Plus I","1909","2005","2009"
+"2168","Volkswagen Jetta VI","1912","2010",NULL
+"2169","Volkswagen Jetta V","1912","2005","2011"
+"2170","Volkswagen Jetta IV","1912","1998","2005"
+"2171","Volkswagen Jetta III","1912","1991","1998"
+"2172","Volkswagen Jetta II","1912","1984","1992"
+"2173","Volkswagen Jetta I","1912","1978","1984"
+"2175","Volkswagen Multivan T5","1915","2003",NULL
+"2176","Volkswagen Multivan T4","1915","1998","2003"
+"2177","Volkswagen Passat B7","1917","2010",NULL
+"2178","Volkswagen Passat B6","1917","2005","2010"
+"2179","Volkswagen Passat B5","1917","1996","2005"
+"2180","Volkswagen Passat B3, B4","1917","1988","1997"
+"2181","Volkswagen Passat B2","1917","1980","1988"
+"2182","Volkswagen Passat B1","1917","1973","1981"
+"2183","Volkswagen Passat CC I Рестайлинг","1918","2012",NULL
+"2184","Volkswagen Passat CC I","1918","2008","2011"
+"2185","Volkswagen Phaeton I Рестайлинг","1919","2010",NULL
+"2186","Volkswagen Phaeton I","1919","2002","2010"
+"2188","Volkswagen Polo V","1921","2009",NULL
+"2189","Volkswagen Polo IV","1921","2001","2009"
+"2190","Volkswagen Polo III","1921","1994","2002"
+"2191","Volkswagen Polo II","1921","1981","1994"
+"2192","Volkswagen Polo I","1921","1975","1988"
+"2193","Volkswagen Scirocco III","1924","2008",NULL
+"2194","Volkswagen Scirocco II","1924","1980","1992"
+"2195","Volkswagen Scirocco I","1924","1974","1980"
+"2196","Volkswagen Sharan II","1925","2010",NULL
+"2197","Volkswagen Sharan I","1925","1995","2010"
+"2199","Volkswagen Tiguan I Рестайлинг","1927","2011",NULL
+"2200","Volkswagen Tiguan I","1927","2007","2011"
+"2201","Volkswagen Touareg II","1928","2010",NULL
+"2202","Volkswagen Touareg I","1928","2002","2010"
+"2203","Volkswagen Touran II","1929","2010",NULL
+"2204","Volkswagen Touran I Рестайлинг","1929","2006","2010"
+"2205","Volkswagen Touran I","1929","2003","2006"
+"2206","Volkswagen Type 4 II (412)","1930","1972","1975"
+"2207","Volkswagen Type 4 I (411)","1930","1968","1973"
+"2219","Volvo C30 I Рестайлинг","1949","2010","2013"
+"2220","Volvo C30 I","1949","2006","2010"
+"2221","Volvo C70 II Рестайлинг","1950","2010","2013"
+"2222","Volvo C70 II","1950","2005","2010"
+"2223","Volvo C70 I","1950","1997","2005"
+"2224","Volvo S40 II Рестайлинг","1952","2007","2012"
+"2225","Volvo S40 II","1952","2003","2007"
+"2226","Volvo S40 I","1952","1995","2004"
+"2227","Volvo S60 II","1953","2010",NULL
+"2228","Volvo S60 I","1953","2000","2009"
+"2229","Volvo S80 II Рестайлинг","1955","2010",NULL
+"2230","Volvo S80 II","1955","2006","2010"
+"2231","Volvo S80 I","1955","1998","2006"
+"2232","Volvo V40 II","1957","2012",NULL
+"2233","Volvo V40 I","1957","1995","2004"
+"2234","Volvo V70 III","1960","2007",NULL
+"2235","Volvo V70 II","1960","2000","2007"
+"2236","Volvo V70 I","1960","1997","2000"
+"2237","Volvo XC60 I Рестайлинг","1962","2013",NULL
+"2238","Volvo XC60 I","1962","2008","2013"
+"2239","Volvo XC70 II","1963","2007",NULL
+"2240","Volvo XC70 I","1963","2000","2007"
+"2241","Volvo XC90 I Рестайлинг","1964","2006",NULL
+"2242","Volvo XC90 I","1964","2002","2006"
+"2243","Vortex Estina II (FL-C)","1966","2012",NULL
+"2244","Vortex Estina I","1966","2008","2011"
+"2245","Vortex Tingo II (FL)","1967","2012",NULL
+"2246","Vortex Tingo I","1967","2010","2012"
+"2251","ZX Landmark I Рестайлинг","1984","2009",NULL
+"2252","ZX Landmark I","1984","2005",NULL
+"2256","ВАЗ 2120 Надежда I Рестайлинг","2008","2002","2006"
+"2257","ВАЗ 2120 Надежда I","2008","1999","2002"
+"2259","ВАЗ Kalina II","2016","2013",NULL
+"2260","ВАЗ Kalina I","2016","2004","2013"
+"2262","ВАЗ Revolution SuperSport","2019","2006",NULL
+"2263","ВАЗ Revolution Sport","2019","2004",NULL
+"2264","ГАЗ 24 «Волга» II (2410)","2026","1986","1993"
+"2265","ГАЗ 24 «Волга» I (24)","2026","1970","1987"
+"2279","Москвич Дуэт Дуэт-1","2078","1999","2001"
+"2280","Москвич Дуэт Дуэт-2","2078","1999","2001"
+"2286","УАЗ Patriot I Рестайлинг","2100","2012",NULL
+"2287","УАЗ Patriot I","2100","2005","2012"
+"2288","УАЗ Pickup I Рестайлинг","2101","2012",NULL
+"2289","УАЗ Pickup I","2101","2008","2012"
+"2290","Chevrolet Vectra II","2105","1996","2002"
+"2291","Chevrolet Vectra I","2105","1993","1996"
+"2292","Nissan Prairie III (M12)","2117","1998","2004"
+"2293","Nissan Prairie II (M11)","2117","1988","1998"
+"2294","Nissan Prairie I (M10)","2117","1983","1988"
+"2295","Nissan Presage II","2118","2003","2009"
+"2296","Nissan Presage I","2118","1998","2003"
+"2297","Nissan Presea II","2119","1995","2000"
+"2298","Nissan Presea I","2119","1990","1994"
+"2299","Nissan President III (PGF50)","2120","2003","2010"
+"2300","Nissan President II (HG50)","2120","1990","2002"
+"2301","Nissan President I (150, 250)","2120","1973","1989"
+"2302","Nissan Primera III (P12)","2121","2001","2008"
+"2303","Nissan Primera II (P11)","2121","1995","2002"
+"2304","Nissan Primera I (P10)","2121","1990","1995"
+"2305","Nissan Pulsar V (N15)","2122","1995","2000"
+"2306","Nissan Pulsar IV (N14)","2122","1990","1995"
+"2307","Nissan Quest IV","2124","2010",NULL
+"2308","Nissan Quest III","2124","2003","2009"
+"2309","Nissan Quest II","2124","1999","2002"
+"2310","Nissan Quest I","2124","1992","1998"
+"2311","Nissan Rogue II","2127","2013",NULL
+"2312","Nissan Rogue I","2127","2007","2013"
+"2313","Nissan Safari V (Y61)","2129","1997","2007"
+"2314","Nissan Safari IV (Y60)","2129","1987","1997"
+"2315","Nissan Sentra VII (B17)","2130","2012",NULL
+"2316","Nissan Sentra VI (B16)","2130","2006","2012"
+"2317","Nissan Sentra V (B15)","2130","1998","2006"
+"2318","Nissan Sentra IV (B14)","2130","1994","1998"
+"2319","Nissan Serena IV (C26)","2131","2010",NULL
+"2320","Nissan Serena III (C25)","2131","2005","2012"
+"2321","Nissan Serena II (C24)","2131","2000","2005"
+"2322","Nissan Serena I (C23)","2131","1991","2002"
+"2323","Nissan Silvia VII (S15)","2132","1999","2002"
+"2324","Nissan Silvia VI (S14)","2132","1993","1999"
+"2325","Nissan Silvia V (S13)","2132","1988","1993"
+"2326","Nissan Silvia IV (S12)","2132","1984","1988"
+"2327","Nissan Silvia III (S110)","2132","1979","1983"
+"2328","Nissan Skyline XII (V36)","2134","2006",NULL
+"2329","Nissan Skyline XI (V35)","2134","2001","2007"
+"2330","Nissan Skyline X (R34)","2134","1998","2002"
+"2331","Nissan Skyline IX (R33)","2134","1993","1998"
+"2332","Nissan Skyline VIII (R32)","2134","1989","1994"
+"2333","Nissan Skyline VII (R31)","2134","1985","1989"
+"2334","Nissan Skyline VI (R30)","2134","1981","1985"
+"2335","Nissan Stagea II","2135","2001","2007"
+"2336","Nissan Stagea I","2135","1996","2001"
+"2337","Nissan Stanza II (T12)","2136","1986","1989"
+"2338","Nissan Stanza I (T11)","2136","1981","1985"
+"2339","Nissan Sunny N16","2137","2000","2005"
+"2340","Nissan Sunny B15","2137","1998","2004"
+"2341","Nissan Sunny B14","2137","1994","1998"
+"2342","Nissan Sunny Y10","2137","1990","2000"
+"2343","Nissan Sunny N14","2137","1990","1995"
+"2344","Nissan Sunny N13","2137","1986","1991"
+"2345","Nissan Sunny B12","2137","1986","1991"
+"2346","Nissan Sunny B11","2137","1982","1987"
+"2347","Nissan Teana III","2138","2013",NULL
+"2348","Nissan Teana II","2138","2008","2013"
+"2349","Nissan Teana I","2138","2003","2008"
+"2350","Nissan Terrano III","2139","2014",NULL
+"2351","Nissan Terrano II","2139","1992","2006"
+"2352","Nissan Terrano I","2139","1987","1995"
+"2353","Nissan Tiida I Рестайлинг","2141","2010",NULL
+"2354","Nissan Tiida I","2141","2004","2012"
+"2356","Nissan Vanette IV","2144","1999","2010"
+"2357","Nissan Vanette III","2144","1994","1999"
+"2358","Nissan Vanette II","2144","1985","1994"
+"2359","Nissan Vanette I","2144","1978","1989"
+"2360","Nissan Versa II","2145","2012",NULL
+"2361","Nissan Versa I","2145","2006","2013"
+"2362","Nissan Wingroad III (Y12)","2146","2005",NULL
+"2363","Nissan Wingroad II (Y11)","2146","1999","2005"
+"2364","Nissan Wingroad I (Y10)","2146","1996","1999"
+"2365","Nissan X-Terra II","2147","2005",NULL
+"2366","Nissan X-Terra I","2147","2000","2004"
+"2367","Nissan X-Trail II Рестайлинг","2148","2011",NULL
+"2368","Nissan X-Trail II","2148","2007","2010"
+"2369","Nissan X-Trail I","2148","2001","2007"
+"2370","Toyota Mark II IX (X110)","2150","2000","2007"
+"2371","Toyota Mark II VIII (X100)","2150","1996","2002"
+"2372","Toyota Mark II VII (X90)","2150","1992","1996"
+"2373","Toyota Mark II VI (X80)","2150","1988","1996"
+"2374","Toyota Mark II V (X70)","2150","1984","1997"
+"2375","Toyota Mark II IV (X60)","2150","1980","1984"
+"2376","Toyota Mark X II","2151","2009",NULL
+"2377","Toyota Mark X I","2151","2004","2009"
+"2378","Toyota Matrix II (E140)","2154","2008","2013"
+"2379","Toyota Matrix I (E130)","2154","2002","2008"
+"2380","Toyota MR2 III (W30)","2156","1999","2007"
+"2381","Toyota MR2 II (W20)","2156","1989","2000"
+"2382","Toyota MR2 I (W10)","2156","1984","1990"
+"2383","Toyota Paseo II (L50)","2161","1996","2000"
+"2384","Toyota Paseo I (L40)","2161","1991","1996"
+"2385","Toyota Passo II (C30)","2162","2010",NULL
+"2386","Toyota Passo I (C10)","2162","2004","2010"
+"2387","Toyota Picnic I","2164","2001","2004"
+"2388","Toyota Picnic II","2164","1996","2001"
+"2389","Toyota Porte II","2166","2012",NULL
+"2390","Toyota Porte I","2166","2004","2012"
+"2391","Toyota Premio II (T26)","2167","2007",NULL
+"2392","Toyota Premio I (T24)","2167","2001","2007"
+"2393","Toyota Previa III (XR50)","2168","2006",NULL
+"2394","Toyota Previa II (XR30, XR40)","2168","2000","2006"
+"2395","Toyota Previa I (XR10, XR20)","2168","1990","2000"
+"2396","Toyota Prius III (ZVW30)","2170","2009",NULL
+"2397","Toyota Prius II (NHW20)","2170","2003","2009"
+"2398","Toyota Prius I Рестайлинг (NHW11)","2170","2000","2003"
+"2399","Toyota Prius I (NHW10)","2170","1997","2001"
+"2400","Toyota Ractis II","2175","2010",NULL
+"2401","Toyota Ractis I","2175","2005","2010"
+"2402","Toyota Raum II","2176","2003","2011"
+"2403","Toyota Raum I","2176","1997","2003"
+"2404","Toyota RAV 4 IV (CA40)","2177","2012",NULL
+"2405","Toyota RAV 4 III (XA30)","2177","2005","2012"
+"2406","Toyota RAV 4 II (XA20)","2177","2000","2006"
+"2407","Toyota RAV 4 I (XA10)","2177","1994","2000"
+"2409","Toyota Sequoia II","2183","2008",NULL
+"2410","Toyota Sequoia I","2183","2001","2008"
+"2411","Toyota Sienna III","2185","2010",NULL
+"2412","Toyota Sienna II","2185","2003","2010"
+"2413","Toyota Sienna I","2185","1997","2003"
+"2414","Toyota Soarer IV (Z40)","2187","2001","2005"
+"2415","Toyota Soarer III (Z30)","2187","1991","2001"
+"2416","Toyota Soarer II (Z20)","2187","1986","1991"
+"2417","Toyota Soarer I","2187","1981","1985"
+"2418","Toyota Sprinter Carib III","2190","1995","2005"
+"2419","Toyota Sprinter Carib II","2190","1988","1995"
+"2420","Toyota Sprinter Carib I","2190","1982","1988"
+"2421","Toyota Sprinter Trueno IX","2192","1995","2000"
+"2422","Toyota Sprinter Trueno VIII","2192","1991","1995"
+"2423","Toyota Sprinter Trueno VII","2192","1987","1991"
+"2424","Toyota Sprinter Trueno VI","2192","1983","1987"
+"2425","Toyota Sprinter VIII (E110)","2193","1995","2000"
+"2426","Toyota Sprinter VII (E100)","2193","1991","1995"
+"2427","Toyota Starlet V (P90)","2194","1996","1999"
+"2428","Toyota Starlet IV (P80)","2194","1989","1998"
+"2429","Toyota Starlet III (P70)","2194","1985","1990"
+"2430","Toyota Starlet II (P60)","2194","1978","1984"
+"2431","Toyota Supra IV (A80)","2196","1993","2002"
+"2432","Toyota Supra III (A70)","2196","1986","1993"
+"2433","Toyota Tacoma II","2197","2004",NULL
+"2434","Toyota Tacoma I","2197","1995","2004"
+"2435","Toyota Tercel V (L50)","2198","1994","2000"
+"2436","Toyota Tercel IV (L40)","2198","1989","1994"
+"2437","Toyota Tercel III (L30)","2198","1987","1990"
+"2438","Toyota Tercel II (L20)","2198","1982","1988"
+"2439","Toyota Tercel I (L10)","2198","1979","1982"
+"2440","Toyota TownAce IV","2199","1996","2001"
+"2441","Toyota TownAce III","2199","1992","1996"
+"2442","Toyota TownAce II","2199","1988","1993"
+"2443","Toyota Tundra II Рестайлинг","2200","2013",NULL
+"2444","Toyota Tundra II","2200","2007","2013"
+"2445","Toyota Tundra I","2200","2000","2006"
+"2446","Toyota Venza I Рестайлинг","2204","2013",NULL
+"2447","Toyota Venza I","2204","2008","2012"
+"2448","Toyota Verso II","2206","2012",NULL
+"2449","Toyota Verso I","2206","2009","2012"
+"2450","Toyota Vios III","2208","2013",NULL
+"2451","Toyota Vios II","2208","2007","2013"
+"2452","Toyota Vios I","2208","2003","2007"
+"2453","Toyota Vista V (V50)","2209","1998","2003"
+"2454","Toyota Vista IV (V40)","2209","1994","1998"
+"2455","Toyota Vista III (V30)","2209","1990","1994"
+"2456","Toyota Vista II (V20)","2209","1987","1990"
+"2457","Toyota Vista I (V10)","2209","1982","1986"
+"2458","Toyota Vitz III (XP130)","2210","2010",NULL
+"2459","Toyota Vitz II (XP90)","2210","2005","2011"
+"2460","Toyota Vitz I (P10)","2210","1998","2005"
+"2461","Toyota WiLL II (VS)","2214","2001","2004"
+"2462","Toyota WiLL I (Vi)","2214","1999","2001"
+"2463","Toyota Windom III (XV30)","2215","2001","2003"
+"2464","Toyota Windom II (XV20)","2215","1996","2001"
+"2465","Toyota Windom I (XV10)","2215","1991","1996"
+"2466","Toyota Yaris III","2217","2010",NULL
+"2467","Toyota Yaris II","2217","2005","2012"
+"2468","Toyota Yaris I","2217","1999","2005"
+"2469","Audi 100 IV (C4)","75","1990","1994"
+"2470","Audi 100 III (C3)","75","1982","1991"
+"2471","Audi 100 II (C2)","75","1976","1983"
+"2472","Audi 100 I (C1)","75","1968","1976"
+"2474","Nissan Micra IV Рестайлинг","1392","2014",NULL
+"2475","Nissan Micra IV (K13)","1392","2010","2013"
+"2476","Nissan Micra III (K12)","1392","2003","2010"
+"2477","Nissan Micra II (K11)","1392","1992","2002"
+"2478","Nissan Micra I (K10)","1392","1982","1992"
+"2480","Subaru Impreza IV","1717","2011",NULL
+"2481","Subaru Impreza III","1717","2007","2014"
+"2482","Subaru Impreza II Рестайлинг 2","1717","2005","2007"
+"2483","Subaru Impreza II Рестайлинг 1","1717","2002","2005"
+"2484","Subaru Impreza II","1717","2000","2002"
+"2485","Subaru Impreza I","1717","1992","2000"
+"2486","Hyundai Equus I Рестайлинг","825","2013",NULL
+"2487","Mercedes-Benz V-classe I (W638)","1208","1996","2003"
+"2488","Toyota Harrier III (XU60)","1838","2013",NULL
+"2489","Toyota Highlander III (U50)","1840","2013",NULL
+"2490","Chevrolet Silverado III (K2XX)","2220","2013",NULL
+"2491","Chevrolet Silverado II (GMT900)","2220","2007","2013"
+"2492","Chevrolet Silverado I (GMT800)","2220","1999","2007"
+"2493","Citroen Jumpy II","2221","2007",NULL
+"2494","Citroen Jumpy I","2221","1996","2007"
+"2495","Fiat Scudo II","2222","2007",NULL
+"2496","Fiat Scudo I","2222","1996","2007"
+"2497","Mercedes-Benz Vito II (W639) Рестайлинг","2225","2010",NULL
+"2498","Mercedes-Benz Vito II (W639)","2225","2003","2010"
+"2499","Mercedes-Benz Vito I (W638)","2225","1996","2003"
+"2501","Peugeot Expert II","2229","2007",NULL
+"2502","Peugeot Expert I","2229","1996","2007"
+"2504","Volkswagen California California T5","2234","2003",NULL
+"2505","Volkswagen California California T4","2234","1991","2003"
+"2506","Volkswagen Caravelle Caravelle T5","2235","2003",NULL
+"2507","Volkswagen Caravelle Caravelle T4","2235","1990","2003"
+"2508","Volkswagen Caravelle Caravelle T3","2235","1980","1991"
+"2509","Volkswagen Transporter T5","2236","2003",NULL
+"2510","Volkswagen Transporter T4","2236","1990","2003"
+"2512","Nissan Elgrand III (E52)","1374","2010",NULL
+"2830","147","23","2000","2010"
+"2831","156","25","1997","2007"
+"2832","159","26","2005","2011"
+"2833","8C Competizione","33","2007","2010"
+"2834","Alfasud","35","1972","1984"
+"2835","Alfetta","36","1974","1987"
+"2836","10","56","1984","2006"
+"2837","Rocsta","59","1989","1998"
+"2838","DB7","62","1994","2004"
+"2839","DBS","64","2007","2012"
+"2840","Lagonda","65","1976","1997"
+"2841","V12 Vantage","70","2008",NULL
+"2842","V8 Zagato","73","1986","1989"
+"2843","A1","80","2010",NULL
+"2844","RS5","102","2010",NULL
+"2845","S1","105","2014",NULL
+"2846","S2","106","1990","1995"
+"2847","Audi TT III (8S)","114","2014",NULL
+"2848","Metro","120","1980","1990"
+"2849","Montego","122","1984","1994"
+"2850","Continental","131","1984","2007"
+"2851","4er","145","2013",NULL
+"2852","Z3","158","1995","2003"
+"2853","EB 16.4 Veyron","184","2003",NULL
+"2854","Reatta","195","1988","1993"
+"2855","Roadmaster","199","1991","1996"
+"2856","Skylark","200","1992","1998"
+"2857","F3","204","2005",NULL
+"2858","G3","208","2009",NULL
+"2859","ATS","216","2012",NULL
+"2860","C12","233","1998","2003"
+"2862","Astra","259","1998","2004"
+"2863","Colorado","277","2004","2012"
+"2864","Corsa","278","1994","2001"
+"2865","Kalos","289","2003","2008"
+"2866","Lacetti","290","2004","2013"
+"2867","Metro","296","1998","2007"
+"2868","Nubira","301","2003","2004"
+"2869","S-10 Pickup","306","1993","2002"
+"2870","Sonic","308","2011",NULL
+"2871","200","318","2010","2014"
+"2872","Crossfire","324","2003","2007"
+"2873","Le Baron","329","1982","1996"
+"2874","PT Cruiser","336","2000","2010"
+"2875","Stratus","339","1995","2000"
+"2876","Viper","342","1992","2002"
+"2877","AMI","346","1961","1978"
+"2878","Ax","347","1986","1998"
+"2879","BX","349","1982","1994"
+"2880","C1","352","2005",NULL
+"2881","DS3","364","2009",NULL
+"2882","GS","369","1971","1986"
+"2883","Saxo","371","1996","2004"
+"2884","Xsara","375","1997","2004"
+"2885","ZX","377","1991","1998"
+"2886","1300","380","1969","1978"
+"2887","1310","381","1983","2006"
+"2888","Kalos","400","2002","2006"
+"2889","Korando","401","1999","2001"
+"2890","Lacetti","402","2003","2009"
+"2891","Lanos (Sens)","403","1997","2002"
+"2892","Racer","412","1986","1995"
+"2893","46","418","1974","1976"
+"2894","66","419","1972","1975"
+"2895","Feroza","433","1988","1998"
+"2896","Leeza","435","1986","1994"
+"2897","Opti","442","1992","2002"
+"2898","Rocky","444","1987","1998"
+"2899","Bluebird","465","1976","1981"
+"2900","Stanza","470","1977","1981"
+"2901","Sunny","471","1973","1983"
+"2902","Guara","474","1993","2001"
+"2903","Aries","487","1981","1989"
+"2904","Rich","516","2007","2009"
+"2905","Assol","517","1998","2002"
+"2906","Orion","519","1998","2002"
+"2907","Summit","523","1989","1996"
+"2908","Oley","536","2012",NULL
+"2909","Vita","539","2006",NULL
+"2910","208/308","540","1974","1989"
+"2911","328","541","1985","1989"
+"2912","348","542","1989","1995"
+"2913","360","543","1999","2004"
+"2914","458","547","2009",NULL
+"2915","550","551","1996","2001"
+"2916","575M","552","2002","2006"
+"2917","599","553","2006","2012"
+"2918","F355","558","1994","1999"
+"2919","F430","560","2004","2009"
+"2920","F50","561","1995","1997"
+"2921","Mondial","564","1980","1993"
+"2922","124","566","1966","1985"
+"2923","127","568","1971","1986"
+"2924","128","569","1969","1984"
+"2925","130","570","1969","1978"
+"2926","131","571","1974","1985"
+"2927","Duna","587","1987","1991"
+"2928","Marea","592","1996","2002"
+"2929","Palio","594","1996","2003"
+"2930","Regata","598","1983","1990"
+"2931","Stilo","603","2001","2007"
+"2932","Tempra","605","1990","1998"
+"2933","Tipo","606","1987","1995"
+"2934","Consul","617","1972","1976"
+"2935","Tempo","666","1984","1995"
+"2936","125p","672","1967","1992"
+"2937","Emgrand EC7","680","2009",NULL
+"2938","MR","689","2000","2007"
+"2939","Metro","690","1989","1997"
+"2940","Tracker","694","1989","1998"
+"2941","Canyon","696","2004","2013"
+"2942","Jimmy","698","1991","2001"
+"2943","GMC Sierra IV (K2XX)","701","2013",NULL
+"2944","Deer","712","2005",NULL
+"2945","3","731","2010",NULL
+"2946","Apollo","736","1991","1996"
+"2947","Astra","737","1999","2004"
+"2948","Vectra","751","1998","2001"
+"2949","Concerto","762","1988","1995"
+"2950","HR-V","777","1998","2006"
+"2951","Logo","785","1996","2001"
+"2952","H1","815","1992","2006"
+"2953","H2","816","2002","2009"
+"2954","Galloper","827","1991","2003"
+"2955","Getz","830","2002","2011"
+"2956","i20","833","2008",NULL
+"2957","i40","835","2011",NULL
+"2958","Hyundai Sonata VII (LF)","849","2014",NULL
+"2959","Elba","876","1991","1997"
+"2960","Mille","877","1994","1997"
+"2961","KB","894","1980","1988"
+"2962","TF (Pickup)","900","1988","2002"
+"2963","J3 (Tongyue,Tojoy)","906","2009",NULL
+"2964","F-Type","915","2013",NULL
+"2965","X-Type","917","2001","2009"
+"2966","Avella","934","1993","2000"
+"2967","Pride","952","1990","2002"
+"2968","Aventador","973","2011",NULL
+"2969","Diablo","975","1990","2001"
+"2970","Murcielago","983","2001","2010"
+"2971","Beta","988","1974","1984"
+"2972","Dedra","989","1989","1999"
+"2973","Gamma","992","1976","1984"
+"2974","Kappa","994","1994","2000"
+"2975","Lybra","995","1999","2006"
+"2976","Defender","1006","1983",NULL
+"2977","Range Rover Evoque","1009","2011",NULL
+"2978","Breez (520)","1032","2006",NULL
+"2979","MM","1073","1990","2000"
+"2980","LM 400","1080","1994","1998"
+"2981","LM 500","1081","1994","1998"
+"2982","Baleno","1091","1999","2007"
+"2983","Gypsy","1093","1983",NULL
+"2984","4200 GT","1101","2002","2007"
+"2985","Biturbo","1103","1981","1994"
+"2986","GranTurismo","1107","2007",NULL
+"2987","57","1118","2002","2012"
+"2988","Atenza","1132","2002","2008"
+"2989","MP4-12C","1181","2011",NULL
+"2990","SLR McLaren","1206","2003","2009"
+"2991","SLS AMG","1207","2010",NULL
+"2992","W114","1211","1968","1977"
+"2993","W123","1213","1975","1985"
+"2994","W124","1214","1985","1993"
+"2995","Marauder","1218","2002","2004"
+"2996","Marquis","1220","1979","1982"
+"2997","Tracer","1228","1991","1999"
+"2998","6","1236","2010",NULL
+"2999","MGB","1240","1966","1980"
+"3000","ZR","1246","2001","2005"
+"3001","ZS","1247","2001","2005"
+"3002","ZT","1248","2001","2005"
+"3003","3000 GT","1263","1990","2001"
+"3004","Carisma","1267","1995","2003"
+"3005","Pajero iO","1302","1998","2007"
+"3006","Pajero Pinin","1305","1998","2007"
+"3007","Sigma","1312","1990","1996"
+"3008","Marina","1345","1971","1980"
+"3009","350Z","1352","2002","2009"
+"3010","370Z","1353","2009",NULL
+"3011","Mistral","1393","1994","1999"
+"3012","NP 300","1398","2008",NULL
+"3013","Achieva","1408","1991","1998"
+"3014","Alero","1409","1999","2004"
+"3015","Cutlass Calais","1413","1984","1991"
+"3016","Cutlass Ciera","1414","1982","1997"
+"3017","Cutlass Supreme","1415","1988","1998"
+"3018","Campo","1429","1991","2000"
+"3019","Vita","1452","1994","2006"
+"3020","Zonda","1456","1999","2013"
+"3021","Esperante","1457","2000",NULL
+"3022","104","1468","1972","1988"
+"3023","107","1470","2005","2014"
+"3024","204","1472","1965","1977"
+"3025","205","1473","1983","1998"
+"3026","206","1474","1998",NULL
+"3027","207","1475","2006",NULL
+"3028","208","1476","2012",NULL
+"3029","304","1479","1969","1980"
+"3030","305","1480","1977","1990"
+"3031","306","1481","1993","2003"
+"3032","307","1482","2001","2011"
+"3033","309","1484","1985","1993"
+"3034","405","1487","1987","1996"
+"3035","406","1488","1995","2004"
+"3036","407","1489","2004","2010"
+"3037","504","1492","1968","1989"
+"3038","505","1493","1979","1993"
+"3039","508","1494","2011",NULL
+"3040","Caravelle","1506","1983","1988"
+"3041","Neon","1508","1993","2001"
+"3042","Sundance","1510","1986","1994"
+"3043","6000","1513","1982","1991"
+"3044","G4","1518","2005","2010"
+"3045","G5","1519","2004","2010"
+"3046","G6","1520","2004","2009"
+"3047","Solstice","1529","2005","2009"
+"3048","Sunfire","1531","1995","2005"
+"3049","944","1541","1981","1991"
+"3050","968","1543","1991","1995"
+"3051","Wira (400 Series)","1562","1995","2007"
+"3052","3","1567","2013",NULL
+"3053","11","1570","1983","1988"
+"3054","12","1571","1969","1980"
+"3055","18","1576","1978","1986"
+"3056","21","1579","1983","1994"
+"3057","4","1582","1962","1991"
+"3058","Phantom","1618","2003",NULL
+"3059","100","1623","1994","2000"
+"3060","25","1625","1999","2005"
+"3061","45","1627","1999","2005"
+"3062","75","1629","1999","2005"
+"3063","800","1630","1986","1999"
+"3064","Metro","1631","1987","1994"
+"3065","Mini","1632","1989","2000"
+"3066","9000","1642","1984","1998"
+"3067","99","1645","1967","1984"
+"3068","PS-10","1647","2007","2011"
+"3069","Astra","1648","2008","2009"
+"3070","ION","1650","2003","2007"
+"3071","Altea","1668","2004",NULL
+"3072","Exeo","1671","2009","2013"
+"3073","Fura","1672","1982","1986"
+"3074","Citigo","1682","2011",NULL
+"3075","Favorit","1684","1989","2000"
+"3076","Rapid","1687","2012",NULL
+"3077","C12","1696","2006","2008"
+"3078","C8","1697","2000",NULL
+"3079","Vivio","1733","1992","2000"
+"3080","Baleno","1738","1995","2007"
+"3081","Forenza","1744","2003","2008"
+"3082","Ignis","1746","2000","2008"
+"3083","Avenger","1766","1970","1981"
+"3084","Samba","1768","1981","1986"
+"3085","T613","1779","1973","1996"
+"3086","T700","1780","1996","1999"
+"3087","Altezza","1795","1998","2005"
+"3088","Blizzard","1806","1984","1994"
+"3089","Cavalier","1813","1995","2000"
+"3090","Echo","1830","1999","2005"
+"3091","1.1","1851","1990","1991"
+"3092","P 601","1852","1963","1990"
+"3093","Tramontana","1853","2007",NULL
+"3094","TR7","1854","1975","1981"
+"3095","280","1856","1980","1986"
+"3096","350","1857","1983","1989"
+"3097","420","1860","1984","1989"
+"3098","Tuscan","1868","1999","2006"
+"3099","Carlton","1873","1984","1994"
+"3100","Chevette","1875","1975","1985"
+"3101","Nova","1880","1982","1993"
+"3102","Omega","1881","1994","2004"
+"3103","Royale","1882","1978","1987"
+"3104","210","1895","1984","1995"
+"3105","Bora","1901","1998","2005"
+"3106","Kaefer","1913","1949","2000"
+"3107","Pointer","1920","2003","2009"
+"3108","Taro","1926","1989","1997"
+"3109","up!","1931","2011",NULL
+"3110","140 Series","1934","1966","1975"
+"3111","240 Series","1936","1974","1993"
+"3112","260 Series","1937","1974","1982"
+"3113","300 Series","1938","1975","1991"
+"3114","66","1942","1975","1979"
+"3115","740","1943","1983","1992"
+"3116","760","1944","1981","1992"
+"3117","850","1946","1991","1997"
+"3118","940","1947","1988","1998"
+"3119","960","1948","1990","1997"
+"3120","1.3","1968","1988","1991"
+"3121","353","1969","1966","1989"
+"3122","Yugo","1980","1990","2008"
+"3123","Admiral","1982","2007","2009"
+"3124","Рысь","1990","2009",NULL
+"3125","2108","1999","1980","2005"
+"3126","2112","2004","1999","2009"
+"3127","Granta","2015","2011",NULL
+"3128","Priora","2018","2007",NULL
+"3129","3102 «Волга»","2027","1982","2009"
+"3130","31029 «Волга»","2028","1992","1998"
+"3131","3110 «Волга»","2031","1997","2008"
+"3132","69","2034","1953","1972"
+"3133","М-20 «Победа»","2036","1946","1958"
+"3134","1105 «Дана»","2040","1993","2010"
+"3135","Chance","2044","2009",NULL
+"3136","Forza","2045","2011","2012"
+"3137","Sens","2046","2007","2009"
+"3138","Vida","2047","2012",NULL
+"3139","2717","2054","1999","2012"
+"3140","400","2066","1946","1956"
+"3141","401","2067","1954","1956"
+"3142","Road Partner","2090","2008","2011"
+"3143","Tager","2091","2008","2011"
+"3144","3151","2093","1985","2003"
+"3145","469","2098","1972","2011"
+"3146","Hunter","2099","2003",NULL
+"3147","Titan","2143","2004",NULL
+"3148","Scepter","2182","1991","1996"
+"3149","108","2228","2014",NULL
+"3150","Amarok","2233","2010",NULL
+"3151","650S","2241","2014",NULL
+"3152","Nissan Caravan IV (E25)","2243","2001","2012"
+"3153","Nissan Caravan III (E24)","2243","1986","2001"
+"3154","Nissan Caravan II (E23)","2243","1982","1988"
+"3155","Nissan Urvan IV (E25)","2245","2001","2012"
+"3156","Nissan Urvan III (E24)","2245","1986","2001"
+"3157","Citroen C1 II","352","2014",NULL
+"3158","Citroen C1 I","352","2005","2014"
+"3159","Renault Latitude I Рестайлинг","1597","2013",NULL
+"3160","Renault Latitude I","1597","2010","2013"
+"3161","M11 (A3)","2248","2008",NULL
+"3162","Vitara","2251","1988","2006"
+"5485","Nissan Titan","2143","2004",NULL
+"5486","Toyota Scepter","2182","1991","1996"
+"5487","Toyota TownAce I","2199","1982","1988"
+"5488","Peugeot 108","2228","2014",NULL
+"5489","Volkswagen Amarok","2233","2010",NULL
+"5490","McLaren 650S","2241","2014",NULL
+"5491","Chery M11 (A3)","2248","2008",NULL
+"5492","Suzuki Vitara","2251","1988","2006"
+"5493","Эксклюзив Мелкосерийная","2262","1980",NULL
+"5494","Эксклюзив Реплика","2263","1980",NULL
+"5495","Эксклюзив Самоделка","2264","1980",NULL
+"5496","Alfa Romeo 147","23","2000","2010"
+"5497","Alfa Romeo 156","25","1997","2007"
+"5498","Alfa Romeo 159","26","2005","2011"
+"5499","Alfa Romeo 8C Competizione","33","2007","2010"
+"5500","Alfa Romeo Alfasud","35","1972","1984"
+"5501","Alfa Romeo Alfetta","36","1974","1987"
+"5502","Aro 10","56","1984","2006"
+"5503","Asia Rocsta","59","1989","1998"
+"5504","Aston Martin DB7","62","1994","2004"
+"5505","Aston Martin DBS","64","2007","2012"
+"5506","Aston Martin Lagonda","65","1976","1997"
+"5507","Aston Martin V12 Vantage","70","2008",NULL
+"5508","Aston Martin V8 Zagato","73","1986","1989"
+"5509","Audi A1","80","2010",NULL
+"5510","Audi RS5","102","2010",NULL
+"5511","Audi S1","105","2014",NULL
+"5512","Audi S2","106","1990","1995"
+"5513","Austin Metro","120","1980","1990"
+"5514","Austin Montego","122","1984","1994"
+"5515","Bentley Continental","131","1984","2007"
+"5516","BMW 4er","145","2013",NULL
+"5517","BMW Z3","158","1995","2003"
+"5518","Bugatti EB 16.4 Veyron","184","2003",NULL
+"5519","Buick Reatta","195","1988","1993"
+"5520","Buick Roadmaster","199","1991","1996"
+"5521","Buick Skylark","200","1992","1998"
+"5522","BYD F3","204","2005",NULL
+"5523","BYD G3","208","2009",NULL
+"5524","Cadillac ATS","216","2012",NULL
+"5525","Callaway C12","233","1998","2003"
+"5526","Chevrolet Astra","259","1998","2004"
+"5527","Chevrolet Colorado","277","2004","2012"
+"5528","Chevrolet Corsa","278","1994","2001"
+"5529","Chevrolet Kalos","289","2003","2008"
+"5530","Chevrolet Lacetti","290","2004","2013"
+"5531","Chevrolet Metro","296","1998","2007"
+"5532","Chevrolet Nubira","301","2003","2004"
+"5533","Chevrolet S-10 Pickup","306","1993","2002"
+"5534","Chevrolet Sonic","308","2011",NULL
+"5535","Chrysler 200 II","318","2014",NULL
+"5536","Chrysler 200 I","318","2010","2014"
+"5537","Chrysler Crossfire","324","2003","2007"
+"5538","Chrysler Le Baron","329","1982","1996"
+"5539","Chrysler PT Cruiser","336","2000","2010"
+"5540","Chrysler Stratus","339","1995","2000"
+"5541","Chrysler Viper","342","1992","2002"
+"5542","Citroen AMI","346","1961","1978"
+"5543","Citroen Ax","347","1986","1998"
+"5544","Citroen BX","349","1982","1994"
+"5545","Citroen DS3","364","2009",NULL
+"5546","Citroen GS","369","1971","1986"
+"5547","Citroen Saxo","371","1996","2004"
+"5548","Citroen Xsara","375","1997","2004"
+"5549","Citroen ZX","377","1991","1998"
+"5550","Dacia 1300","380","1969","1978"
+"5551","Dacia 1310","381","1983","2006"
+"5552","Daewoo Kalos","400","2002","2006"
+"5553","Daewoo Korando","401","1999","2001"
+"5554","Daewoo Lacetti","402","2003","2009"
+"5555","Daewoo Lanos (Sens)","403","1997","2002"
+"5556","Daewoo Racer","412","1986","1995"
+"5557","DAF 46","418","1974","1976"
+"5558","DAF 66","419","1972","1975"
+"5559","Daihatsu Feroza","433","1988","1998"
+"5560","Daihatsu Leeza","435","1986","1994"
+"5561","Daihatsu Opti","442","1992","2002"
+"5562","Daihatsu Rocky","444","1987","1998"
+"5563","Datsun Bluebird","465","1976","1981"
+"5564","Datsun Stanza","470","1977","1981"
+"5565","Datsun Sunny","471","1973","1983"
+"5566","De Tomaso Guara","474","1993","2001"
+"5567","Dodge Aries","487","1981","1989"
+"5568","DongFeng Rich","516","2007","2009"
+"5569","Doninvest Assol","517","1998","2002"
+"5570","Doninvest Orion","519","1998","2002"
+"5571","Eagle Summit","523","1989","1996"
+"5572","FAW Oley","536","2012",NULL
+"5573","FAW Vita","539","2006",NULL
+"5574","Ferrari 208/308","540","1974","1989"
+"5575","Ferrari 328","541","1985","1989"
+"5576","Ferrari 348","542","1989","1995"
+"5577","Ferrari 360","543","1999","2004"
+"5578","Ferrari 458","547","2009",NULL
+"5579","Ferrari 550","551","1996","2001"
+"5580","Ferrari 575M","552","2002","2006"
+"5581","Ferrari 599","553","2006","2012"
+"5582","Ferrari F355","558","1994","1999"
+"5583","Ferrari F430","560","2004","2009"
+"5584","Ferrari F50","561","1995","1997"
+"5585","Ferrari Mondial","564","1980","1993"
+"5586","Fiat 124","566","1966","1985"
+"5587","Fiat 127","568","1971","1986"
+"5588","Fiat 128","569","1969","1984"
+"5589","Fiat 130","570","1969","1978"
+"5590","Fiat 131","571","1974","1985"
+"5591","Fiat Duna","587","1987","1991"
+"5592","Fiat Marea","592","1996","2002"
+"5593","Fiat Palio","594","1996","2003"
+"5594","Fiat Regata","598","1983","1990"
+"5595","Fiat Stilo","603","2001","2007"
+"5596","Fiat Tempra","605","1990","1998"
+"5597","Fiat Tipo","606","1987","1995"
+"5598","Ford Consul","617","1972","1976"
+"5599","Ford Taurus VI Рестайлинг","664","2012",NULL
+"5600","Ford Tempo","666","1984","1995"
+"5601","FSO 125p","672","1967","1992"
+"5602","Geely Emgrand EC7","680","2009",NULL
+"5603","Geely MR","689","2000","2007"
+"5604","Geo Metro","690","1989","1997"
+"5605","Geo Tracker","694","1989","1998"
+"5606","GMC Canyon","696","2004","2013"
+"5607","GMC Jimmy","698","1991","2001"
+"5608","Great Wall Deer","712","2005",NULL
+"5609","Haima 3","731","2010",NULL
+"5610","Holden Apollo","736","1991","1996"
+"5611","Holden Astra","737","1999","2004"
+"5612","Holden Vectra","751","1998","2001"
+"5613","Honda Concerto","762","1988","1995"
+"5614","Honda HR-V","777","1998","2006"
+"5615","Honda Logo","785","1996","2001"
+"5616","Hummer H1","815","1992","2006"
+"5617","Hummer H2","816","2002","2009"
+"5618","Hyundai Galloper","827","1991","2003"
+"5619","Hyundai Getz","830","2002","2011"
+"5620","Hyundai i20","833","2008",NULL
+"5621","Hyundai i40","835","2011",NULL
+"5622","Infiniti Q60","870","2013",NULL
+"5623","Innocenti Elba","876","1991","1997"
+"5624","Innocenti Mille","877","1994","1997"
+"5625","Isuzu KB","894","1980","1988"
+"5626","Isuzu TF (Pickup)","900","1988","2002"
+"5627","JAC J3 (Tongyue,Tojoy)","906","2009",NULL
+"5628","Jaguar F-Type","915","2013",NULL
+"5629","Jaguar X-Type","917","2001","2009"
+"5630","Kia Avella","934","1993","2000"
+"5631","Kia Pride","952","1990","2002"
+"5632","Lamborghini Aventador","973","2011",NULL
+"5633","Lamborghini Diablo","975","1990","2001"
+"5634","Lamborghini Murcielago","983","2001","2010"
+"5635","Lancia Beta","988","1974","1984"
+"5636","Lancia Dedra","989","1989","1999"
+"5637","Lancia Gamma","992","1976","1984"
+"5638","Lancia Kappa","994","1994","2000"
+"5639","Lancia Lybra","995","1999","2006"
+"5640","Land Rover Defender","1006","1983",NULL
+"5641","Land Rover Range Rover Evoque","1009","2011",NULL
+"5642","Lifan Breez (520)","1032","2006",NULL
+"5643","Lincoln Navigator III Рестайлинг","1048","2014",NULL
+"5644","Mahindra MM","1073","1990","2000"
+"5645","Marcos LM 400","1080","1994","1998"
+"5646","Marcos LM 500","1081","1994","1998"
+"5647","Maruti Baleno","1091","1999","2007"
+"5648","Maruti Gypsy","1093","1983",NULL
+"5649","Maserati 4200 GT","1101","2002","2007"
+"5650","Maserati Biturbo","1103","1981","1994"
+"5651","Maserati GranTurismo","1107","2007",NULL
+"5652","Maybach 57","1118","2002","2012"
+"5653","Mazda Atenza","1132","2002","2008"
+"5654","McLaren MP4-12C","1181","2011",NULL
+"5655","Mercedes-Benz CLS-klasse II (W218) Рестайлинг","1195","2014",NULL
+"5656","Mercedes-Benz SLR McLaren","1206","2003","2009"
+"5657","Mercedes-Benz SLS AMG","1207","2010","2014"
+"5658","Mercedes-Benz W114","1211","1968","1977"
+"5659","Mercedes-Benz W123","1213","1975","1985"
+"5660","Mercedes-Benz W124","1214","1985","1993"
+"5661","Mercury Marauder","1218","2002","2004"
+"5662","Mercury Marquis","1220","1979","1982"
+"5663","Mercury Tracer","1228","1991","1999"
+"5664","MG 6","1236","2010",NULL
+"5665","MG MGB","1240","1966","1980"
+"5666","MG ZR","1246","2001","2005"
+"5667","MG ZS","1247","2001","2005"
+"5668","MG ZT","1248","2001","2005"
+"5669","Mini Hatch III","1260","2013",NULL
+"5670","Mitsubishi 3000 GT","1263","1990","2001"
+"5671","Mitsubishi Carisma","1267","1995","2003"
+"5672","Mitsubishi Pajero iO","1302","1998","2007"
+"5673","Mitsubishi Pajero Pinin","1305","1998","2007"
+"5674","Mitsubishi Sigma","1312","1990","1996"
+"5675","Morris Marina","1345","1971","1980"
+"5676","Nissan 350Z","1352","2002","2009"
+"5677","Nissan 370Z","1353","2009",NULL
+"5678","Nissan Mistral","1393","1994","1999"
+"5679","Nissan NP 300","1398","2008",NULL
+"5680","Oldsmobile Achieva","1408","1991","1998"
+"5681","Oldsmobile Alero","1409","1999","2004"
+"5682","Oldsmobile Cutlass Calais","1413","1984","1991"
+"5683","Oldsmobile Cutlass Ciera","1414","1982","1997"
+"5684","Oldsmobile Cutlass Supreme","1415","1988","1998"
+"5685","Opel Campo","1429","1991","2000"
+"5686","Opel Vita","1452","1994","2006"
+"5687","Pagani Zonda","1456","1999","2013"
+"5688","Panoz Esperante","1457","2000",NULL
+"5689","Peugeot 104","1468","1972","1988"
+"5690","Peugeot 107","1470","2005","2014"
+"5691","Peugeot 204","1472","1965","1977"
+"5692","Peugeot 205","1473","1983","1998"
+"5693","Peugeot 206","1474","1998",NULL
+"5694","Peugeot 207","1475","2006",NULL
+"5695","Peugeot 208","1476","2012",NULL
+"5696","Peugeot 304","1479","1969","1980"
+"5697","Peugeot 305","1480","1977","1990"
+"5698","Peugeot 306","1481","1993","2003"
+"5699","Peugeot 307","1482","2001","2011"
+"5700","Peugeot 309","1484","1985","1993"
+"5701","Peugeot 405","1487","1987","1996"
+"5702","Peugeot 406","1488","1995","2004"
+"5703","Peugeot 407","1489","2004","2010"
+"5704","Peugeot 504","1492","1968","1989"
+"5705","Peugeot 505","1493","1979","1993"
+"5706","Peugeot 508","1494","2011",NULL
+"5707","Plymouth Caravelle","1506","1983","1988"
+"5708","Plymouth Neon","1508","1993","2001"
+"5709","Plymouth Sundance","1510","1986","1994"
+"5710","Pontiac 6000","1513","1982","1991"
+"5711","Pontiac G4","1518","2005","2010"
+"5712","Pontiac G5","1519","2004","2010"
+"5713","Pontiac G6","1520","2004","2009"
+"5714","Pontiac Solstice","1529","2005","2009"
+"5715","Pontiac Sunfire","1531","1995","2005"
+"5716","Porsche 944","1541","1981","1991"
+"5717","Porsche 968","1543","1991","1995"
+"5718","Proton Wira (400 Series)","1562","1995","2007"
+"5719","Qoros 3","1567","2013",NULL
+"5720","Renault 11","1570","1983","1988"
+"5721","Renault 12","1571","1969","1980"
+"5722","Renault 18","1576","1978","1986"
+"5723","Renault 21","1579","1983","1994"
+"5724","Renault 4","1582","1962","1991"
+"5725","Renault Twingo III","1607","2014",NULL
+"5726","Rolls-Royce Phantom","1618","2003",NULL
+"5727","Rover 100","1623","1994","2000"
+"5728","Rover 25","1625","1999","2005"
+"5729","Rover 45","1627","1999","2005"
+"5730","Rover 75","1629","1999","2005"
+"5731","Rover 800","1630","1986","1999"
+"5732","Rover Metro","1631","1987","1994"
+"5733","Rover Mini","1632","1989","2000"
+"5734","Saab 9000","1642","1984","1998"
+"5735","Saab 99","1645","1967","1984"
+"5736","Santana PS-10","1647","2007","2011"
+"5737","Saturn Astra","1648","2008","2009"
+"5738","Saturn ION","1650","2003","2007"
+"5739","SEAT Altea","1668","2004",NULL
+"5740","SEAT Exeo","1671","2008","2013"
+"5741","SEAT Fura","1672","1982","1986"
+"5742","Skoda Citigo","1682","2011",NULL
+"5743","Skoda Favorit","1684","1989","2000"
+"5744","Skoda Rapid","1687","2012",NULL
+"5745","Smart Forfour II","1691","2014",NULL
+"5746","Smart Forfour I","1691","2004","2006"
+"5747","Smart Fortwo III","1692","2014",NULL
+"5748","Spyker C12","1696","2006","2008"
+"5749","Spyker C8","1697","2000",NULL
+"5750","Subaru Outback V","1723","2014",NULL
+"5751","Subaru Vivio","1733","1992","2000"
+"5752","Suzuki Baleno","1738","1995","2007"
+"5753","Suzuki Forenza","1744","2003","2008"
+"5754","Suzuki Ignis","1746","2000","2008"
+"5755","Talbot Avenger","1766","1970","1981"
+"5756","Talbot Samba","1768","1981","1986"
+"5757","Tatra T613","1779","1973","1996"
+"5758","Tatra T700","1780","1996","1999"
+"5759","Toyota Altezza","1795","1998","2005"
+"5760","Toyota Blizzard","1806","1984","1994"
+"5761","Toyota Cavalier","1813","1995","2000"
+"5762","Toyota Echo","1830","1999","2005"
+"5763","Trabant 1.1","1851","1990","1991"
+"5764","Trabant P 601","1852","1963","1990"
+"5765","Tramontana Tramontana","1853","2007",NULL
+"5766","Triumph TR7","1854","1975","1981"
+"5767","TVR 280","1856","1980","1986"
+"5768","TVR 350","1857","1983","1989"
+"5769","TVR 420","1860","1984","1989"
+"5770","TVR Tuscan","1868","1999","2006"
+"5771","Vauxhall Carlton","1873","1984","1994"
+"5772","Vauxhall Chevette","1875","1975","1985"
+"5773","Vauxhall Nova","1880","1982","1993"
+"5774","Vauxhall Omega","1881","1994","2004"
+"5775","Vauxhall Royale","1882","1978","1987"
+"5776","Venturi 210","1895","1984","1995"
+"5777","Volkswagen Bora","1901","1998","2005"
+"5778","Volkswagen Kaefer","1913","1949","2000"
+"5779","Volkswagen Pointer","1920","2003","2009"
+"5780","Volkswagen Polo V Рестайлинг","1921","2014",NULL
+"5781","Volkswagen Taro","1926","1989","1997"
+"5782","Volkswagen up!","1931","2011",NULL
+"5783","Volvo 140 Series","1934","1966","1975"
+"5784","Volvo 240 Series","1936","1974","1993"
+"5785","Volvo 260 Series","1937","1974","1982"
+"5786","Volvo 300 Series","1938","1975","1991"
+"5787","Volvo 66","1942","1975","1979"
+"5788","Volvo 740","1943","1983","1992"
+"5789","Volvo 760","1944","1981","1992"
+"5790","Volvo 850","1946","1991","1997"
+"5791","Volvo 940","1947","1988","1998"
+"5792","Volvo 960","1948","1990","1997"
+"5793","Wartburg 1.3","1968","1988","1991"
+"5794","Wartburg 353","1969","1966","1989"
+"5795","Zastava Yugo","1980","1990","2008"
+"5796","ZX Admiral","1982","2007","2009"
+"5797","Бронто Рысь","1990","2009",NULL
+"5798","ВАЗ 2108","1999","1980","2005"
+"5799","ВАЗ 2109","2000","1987","2006"
+"5800","ВАЗ 2112","2004","1999","2009"
+"5801","ВАЗ Granta","2015","2011",NULL
+"5802","ВАЗ Priora I Рестайлинг","2018","2013",NULL
+"5803","ВАЗ Priora I","2018","2007","2013"
+"5804","ГАЗ 3102 «Волга»","2027","1982","2009"
+"5805","ГАЗ 31029 «Волга»","2028","1992","1998"
+"5806","ГАЗ 3110 «Волга»","2031","1997","2008"
+"5807","ГАЗ 69","2034","1953","1972"
+"5808","ГАЗ М-20 «Победа»","2036","1946","1958"
+"5809","ЗАЗ 1105 «Дана»","2040","1993","2010"
+"5810","ЗАЗ Chance","2044","2009",NULL
+"5811","ЗАЗ Forza","2045","2011","2012"
+"5812","ЗАЗ Sens","2046","2007","2009"
+"5813","ЗАЗ Vida","2047","2012",NULL
+"5814","ИЖ 2717","2054","1999","2012"
+"5815","Москвич 400","2066","1946","1956"
+"5816","Москвич 401","2067","1954","1956"
+"5817","ТагАЗ Road Partner","2090","2008","2011"
+"5818","ТагАЗ Tager","2091","2008","2011"
+"5819","УАЗ 3151","2093","1985","2003"
+"5820","УАЗ 469","2098","1972","2011"
+"5821","УАЗ Hunter","2099","2003",NULL
+"5822","Audi A6 allroad III (C7) Рестайлинг","86","2014",NULL
+"5823","Audi A6 IV (C7) Рестайлинг","87","2014",NULL
+"5824","Audi A7 I Рестайлинг","88","2014",NULL
+"5825","Audi A7 I","88","2010","2014"
+"5826","Audi RS6 III (C7) Рестайлинг","103","2014",NULL
+"5827","Audi RS7 I Рестайлинг","104","2014",NULL
+"5828","Audi RS7 I","104","2013",NULL
+"5829","Audi S6 IV (C7) Рестайлинг","110","2014",NULL
+"5830","Audi S7 I Рестайлинг","111","2014",NULL
+"5831","Audi S7 I","111","2012","2014"
+"5832","Ford Expedition III Рестайлинг","629","2014",NULL
+"5833","Great Wall Hover I Рестайлинг 2 (H3)","714","2014",NULL
+"5834","Honda Fit III","774","2013",NULL
+"5835","Mercury Marquis V","1220","1983","1986"
+"5836","Mercury Marquis IV","1220","1979","1982"
+"5837","Nissan 370Z I Рестайлинг","1353","2012",NULL
+"5838","Nissan 370Z I","1353","2009","2014"
+"5839","Peugeot 508 I Рестайлинг","1494","2014",NULL
+"5840","Peugeot 508 I","1494","2011","2014"
+"5841","Porsche Cayenne II Рестайлинг","1546","2014",NULL
+"5842","Renault Sandero II","1603","2014",NULL
+"5843","Renault Sandero I","1603","2009","2014"
+"5844","Nissan Pulsar II (N12)","2122","1982","1986"
+"5845","Toyota TownAce V","2199","2008",NULL
+"5846","Lifan Smily I (320)","2270","2008",NULL
